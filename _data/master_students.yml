@@ -1,0 +1,32 @@
+- name: Rishabh Gupta
+  photo: Milan.jpg
+  info: MTech Student (2018-20)
+  email: rishabhg@iisc.ac.in
+  number_educ: 1
+  education1: BTech, CSE, Guru Ghasidas Vishwavidyalaya
+
+- name: Pooja Gupta
+  photo: Jacky.jpg
+  info: Postdoc, started Oct 2019
+  email: ge@Physics.LeidenUniv.nl
+  number_educ: 3
+  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
+  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
+  education3: B.S. East China University of Science and Technology
+
+- name: Dhiraj D. Shanbhag
+  photo: Koen.jpg
+  info: PhD Student, started Sep 2015
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: Master Leiden University with Milan Allan
+
+- name: Prateek Sachan
+  photo: Maarten.png
+  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
+  email: M.Leeuwenhoek@tudelft.nl
+  number_educ: 1
+  education1: Master Leiden University with Milan Allan
+  education2:
+  education3:
+  education4:

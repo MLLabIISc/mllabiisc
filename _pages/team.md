@@ -248,7 +248,7 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
   </ul>
 
   {% if member.linkedin %}
-    <a href="{{ member.linkedin }}">LinkedIn</a>
+    <i><a href="{{ member.linkedin }}">LinkedIn</a></div>i>
   {% endif %}
 
 </div>

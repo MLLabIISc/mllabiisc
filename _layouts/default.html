@@ -1,106 +1,20 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="title" content="{{ page.title }}">
-    <meta name="description" content="{{ page.description }}">
-    <meta name="keywords" content="{{ page.keywords }}">
 
-    <meta name="og:title" content="{{ page.title }}">
-    <meta name="og:url" content="{{ page.url }}">
-    <!-- <meta name="og:image" content="{{ page.logo }}"> -->
-    <meta name="og:description" content="{{ page.description }}">
-
-    <meta name="MIT:card" content="summary" />
-    <meta name="MIT:site" content="{{ page.url }}" />
-    <meta name="MIT:title" content="{{ page.title }}" />
-    <meta name="MIT:description" content="{{ page.description }}" />
-    <!-- <meta name="MIT:image" content="{{ page.logo }}" /> -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <meta http-equiv='Expires' content='0'>
-    <meta http-equiv='Pragma' content='no-cache'>
-    <meta http-equiv='Cache-Control' content='no-cache'>
-    <meta http-equiv='imagetoolbar' content='no'>
-
-    <title>{{ page.title }}</title>
-    <link rel="shortcut icon" type="image/png" href="assets/dai-favicon.png" />
-
-    <!-- Feather CSS -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/feather-core.css"/>
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/feather-component-grid.css"/>
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/feather-component-button.css"/>
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.css"/>
-
-    <!-- Main CSS -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/{{ page.custom_css }}"/>
-
-  </head>
+  {% include head.html %}
 
   <body>
 
-    <!-- Navigation Bar -->
-    <nav class="nav-bar">
-        <div class="Grid container navigation-bar">
-            <div class="nav-title">
-                <!-- Link in web -->
-                <a class="home-link home-title-page" href="{{ site.baseurl }}/">DAI Lab Open Source</a>
+    {% include header.html %}
 
-                <!-- Text in mobile -->
-                <p class="home-text">DAI Lab Open Source</p>
-                <span id="caret" class="Icon Icon--caretDown"></span>
-            </div>
-            <ul class="nav-menu">
-
-                <!-- This link only exists in mobile -->
-                <li id="extra-mobile-link" class="nav-list-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/">DAI Lab Open Source</a>
-                </li>
-
-                <li class="nav-list-item">
-                    <a class="nav-link" href="https://github.com/DAI-Lab" target="_blank">Core ML</a>
-                </li>
-                <li class="nav-list-item">
-                    <a class="nav-link" href="https://github.com/HDI-Project" target="_blank">HDI</a>
-                </li>
-                <li class="nav-list-item list-end">
-                    <a class="nav-link" href="https://github.com/D3-AI" target="_blank">Applications</a>
-                </li>
-                <li class="nav-list-item list-end">
-                    <a class="nav-link" href="https://github.com/sdv-dev" target="_blank">SDV</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
-
-    <!-- Site wrapper -->
-    <div class="site">
+    <div class="container-fluid">
+      <div class="row">
         {{ content }}
+      </div>
     </div>
-    
-    <!-- Return to Top -->
-    <a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
-    
-    <!-- Footer -->
-    <div class="footer">
-        <div class="Grid container">
-            
-            <div class="Grid-cell footer-cell u-size11of12">
-                <span class="foot-link">© <span id="copyright-year">2018</span> Data to AI Group. Web design forked from <a href="https://twitter.github.io" target="_blank">twitter.github.io</a></span>
-            </div>
-        </div>
-    </div> <!-- End of Footer -->
-    
-    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/js/main.js"></script>
-    <script src="{{ site.baseurl }}/js/{{ page.custom_js }}"></script>
 
-    {% include ga.html %}
+    {% include footer.html %}
+
   </body>
 
 </html>

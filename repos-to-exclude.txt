@@ -1,6 +1,0 @@
-DAI-Lab/cookiecutter-pypackage
-HDI-Project/Data-Science-Machine
-HDI-Project/model-provenance-json
-DAI-Lab/vagrant
-HDI-Project/d3m-dataset-downloader
-DAI-Lab/dai-lab.github.io

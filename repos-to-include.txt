@@ -1,4 +1,0 @@
-DAI-Lab/*
-HDI-Project/*
-D3-AI/*
-sdv-dev/*

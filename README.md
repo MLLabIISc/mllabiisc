@@ -1,3 +1,5 @@
-# https://iisc-ml-group.github.io/
+# Machine Learning Group, IISc
 
-Home of https://iisc-ml-group.github.io/
+https://iisc-ml-group.github.io/
+
+This is the website of our academic research group at Machine Learning Lab, Indian Institute of Science.

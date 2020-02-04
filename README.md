@@ -1,2 +1,3 @@
-# iisc_ml.github.io
- Machine Learning Lab IISc Website
+# https://iisc_ml.github.io
+
+Home of https://iisc_ml.github.io

@@ -1,0 +1,64 @@
+---
+layout: default
+title: MIT Open Source
+description: MIT Open Source Website
+keywords: mit, dai, open, source, open source, finatra, finagle, scala
+url: https://dai.lids.mit.edu
+custom_css: index.css
+custom_js: index.js
+---
+
+<!-- Header -->
+
+<div class="header simple-header">
+    <div class="Grid container">
+        <div id="header-text" class="Grid-cell header-banner">
+            <div class="header-logo">
+                <img src="/assets/logo-dai.png" />
+            </div>
+            <div class="header-information">
+                <h1 class="large-title">Projects</h1>
+                <div class="statistics-summary">
+                    <p>{{ site.data.statistics.repositories }} repositories, {{ site.data.statistics.commits }} commits, {{ site.data.statistics.contributors }} contributors</p>
+                </div>
+                <div class="search-bar">
+                    <input class="search-box" type="text" name="search" placeholder="Search Projects" autocomplete="off" />
+                    <span class="Icon icon--search">
+                        <img src="/assets/icon-search.svg" />
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Container for no results text -->
+<div class="Grid container no-results-container"></div>
+
+<!-- Projects grid (See renderProjects() in projects.js) -->
+<div class="Grid container all-projects"></div>
+<!-- End of all-projects -->
+
+<script type="text/javascript">
+    let allProjects = [];
+    
+    {% for item in site.data.projects %}
+        allProjects.push({
+            name: "{{ item[1]["name"] }}",
+            nameWithOwner: "{{ item[1]["nameWithOwner"] }}",
+            description: `{{ item[1]["descriptionHTML"] }}`,
+            color: "{{ item[1]["primaryLanguage"]["color"] }}",
+            primaryLanguage: "{{ item[1]["primaryLanguage"]["name"] }}",
+            homepageURL: "{{ item[1]["homepageUrl"] }}",
+            pushedAt : "{{ item[1]["pushedAt"] }}",
+            languages : "{{ item[1]["languages"] }}",
+            forks : "{{ item[1]["forkCount"] }}",
+            topics : "{{ item[1]["repositoryTopics"] }}",
+            stars : "{{ item[1]["stargazers"] }}",
+            watchers : "{{ item[1]["watchers"] }}",
+        })
+    {% endfor %}
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.0.4/fuse.min.js" async></script>

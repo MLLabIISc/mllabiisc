@@ -55,6 +55,10 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
   {% endif %}
 
   </ul>
+  {% if member.linkedin %}
+    <a href="{{ member.linkedin }}">LinkedIn</a>
+  {% endif %}
+  {% if project.code %} 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -242,6 +246,10 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
   {% endif %}
 
   </ul>
+
+  {% if member.linkedin %}
+    <a href="{{ member.linkedin }}">LinkedIn</a>
+  {% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

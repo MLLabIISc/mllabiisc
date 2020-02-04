@@ -1,3 +1,3 @@
-# https://iisc_ml.github.io
+# https://iisc-ml-group.github.io/
 
-Home of https://iisc_ml.github.io
+Home of https://iisc-ml-group.github.io/

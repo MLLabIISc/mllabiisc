@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Indian Institute of Science](https://www.iisc.ac.in/). Our aim is to explore and understand [artificial intelligence](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including machine learning, deep learning, numerical optimization, and natural language processing.
+The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in/) was setup to study theoretical and applied aspects of Machine Learning in various domains. Our aim is to explore and understand [artificial intelligence](), including machine learning, deep learning, numerical optimization, and natural language processing. Recently we have added Program Synthesis meets Machine Learning as a new research paradigm. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

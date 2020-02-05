@@ -157,7 +157,7 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
   <li> {{ member.education1 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 2 %}
+<!--  {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
@@ -181,7 +181,7 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endif %}-->
   </ul>
 </div>
 

@@ -68,12 +68,13 @@ We are located at Indian Institute of Science, Bangalore which is the silicon va
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iisclogo.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iisclogo.png" style="width: 210px;margin-right:20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm.png" style="width: 200px; margin-right:20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/microsoft.png" style="width: 180px">
 </figure>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/microsoft.png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tatamotors.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 180px; margin-right:20px">
+  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tatamotors.png" style="width: 180px;margin-right:20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/atimotors.png" style="width: 180px">
 </figure>

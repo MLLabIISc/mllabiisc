@@ -69,11 +69,11 @@ We are located at Indian Institute of Science, Bangalore which is the silicon va
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iisclogo.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm.png" style="width: 200px">
 </figure>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/microsoft.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tatamotors.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/atimotors.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/microsoft.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tatamotors.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/atimotors.png" style="width: 180px">
 </figure>

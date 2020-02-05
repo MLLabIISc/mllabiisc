@@ -13,6 +13,8 @@
   min-height: $navbar-height; // Ensure a navbar always shows (e.g., without a .navbar-brand in collapsed mode)
   margin-bottom: $navbar-margin-bottom;
   border: 1px solid transparent;
+  background-color: #1B374C;
+  border-width: 0 0px 6px 0px;
 
   // Prevent floats from breaking the navbar
   @include clearfix;
@@ -166,6 +168,7 @@
   font-size: $font-size-large;
   line-height: $line-height-computed;
   height: $navbar-height;
+  color:white;
 
   &:hover,
   &:focus {
@@ -396,7 +399,7 @@
 // Default navbar
 .navbar-default {
   background-color: $navbar-default-bg;
-  border-color: $navbar-default-border;
+  border-color: #108896;//$navbar-default-border;
 
   .navbar-brand {
     color: $navbar-default-brand-color;

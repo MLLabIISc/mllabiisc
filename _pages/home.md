@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in/) was setup to study theoretical and applied aspects of Machine Learning in various domains. Our aim is to explore and understand [artificial intelligence](), including machine learning, deep learning, numerical optimization, and natural language processing. Recently we have added Program Synthesis meets Machine Learning as a new research paradigm. 
+The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in/) was setup to study theoretical and applied aspects of machine learning in various domains. Our aim is to explore and understand [artificial intelligence](), including machine learning, deep learning, numerical optimization, and natural language processing. Recently we have added program synthesis meets machine learning as a new research paradigm. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -61,7 +61,7 @@ The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in
 
 
 To this end, we develop numerous machine learning algorithms and tools for complex real world applications. We want to be able to build AI enabled systems that solve problems for social good (see [Research](research)).
-We are actively pursuing applications in the area of Computational Biology, Object Detection in Images, Video Segmentation and Summarization, Detection of rare topics in text documents, Statistical modeling of Computer Systems.
+We are actively pursuing applications in the area of computational biology, object detection in images, video segmentation and summarization, detection of rare topics in text documents, statistical modeling of computer systems.
 
 We are located at Indian Institute of Science, Bangalore which is the silicon valley of India (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We are also collaborating with industries as well as other universities for cutting edge research.
 

@@ -35,7 +35,7 @@ The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/deeptech-vol.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hbd.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fateworkshop.jpeg" alt="Slide 4" />
         </div>
 <!--        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />

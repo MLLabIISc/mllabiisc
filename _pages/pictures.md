@@ -6,13 +6,16 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden)
+Jump to: [Videos](#videos)
 
 
-## Leiden
+## Videos
 
-#### Amazon AI Conclave - Academia view on AI by Prof.Chiranjib Bhattacharyya:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8D7hXDVmzKU" frameborder="0" allowfullscreen></iframe>
+#### Amazon AI Conclave 2018 - Academia view on AI by Prof.Chiranjib Bhattacharyya:
+<iframe width="650" height="415" src="https://www.youtube.com/embed/8D7hXDVmzKU" frameborder="0" allowfullscreen></iframe>
+
+#### NASSCOM Product Conclave 2016 - Speaking at DeepTech Summit by Prof.Chiranjib Bhattacharyya:
+<iframe width="650" height="415" src="https://www.youtube.com/embed/gLtfhBa-Vo4" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)

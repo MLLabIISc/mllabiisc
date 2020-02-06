@@ -12,7 +12,7 @@ Jump to: [Leiden](#leiden)
 ## Leiden
 
 #### Amazon AI Conclave - Academia view on AI by Prof.Chiranjib Bhattacharyya:
-<iframe width="560" height="315" src="https://www.youtube.com/embed?v=8D7hXDVmzKU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8D7hXDVmzKU" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)

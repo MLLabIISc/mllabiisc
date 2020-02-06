@@ -6,13 +6,13 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [Videos](#videos)
 
 
-## Leiden
+## Videos
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
+#### Amazon AI Conclave - Academia view on AI by Prof.Chiranjib Bhattacharyya:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8D7hXDVmzKU" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
@@ -25,7 +25,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix">
+<div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 

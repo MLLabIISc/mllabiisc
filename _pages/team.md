@@ -265,10 +265,10 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
 </div>
 {% endif %}
 
-## Alumni
+## Project Associates
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.project_associates %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

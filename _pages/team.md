@@ -331,29 +331,4 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
 </div>
 {% endif %}
 
-## Alumni
 
-<div class="row">
-
-  <div class="col-sm-4 clearfix">
-    <h4>PhD</h4>
-    {% for member in site.data.alumni_phd %}
-    {{ member.name }}
-    {% endfor %}
-  </div>
-
-  <div class="col-sm-4 clearfix">
-    <h4>Master students</h4>
-    {% for member in site.data.alumni_masters %}
-    {{ member.name }}
-    {% endfor %}
-  </div>
-
-  <div class="col-sm-4 clearfix">
-    <h4>Master Research</h4>
-    {% for member in site.data.alumni_master_res %}
-    {{ member.name }}
-    {% endfor %}
-  </div>
-
-</div>

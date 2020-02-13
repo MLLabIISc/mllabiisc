@@ -1,10 +1,10 @@
-- title: "ML based prediction of cognitive impairement by understanding brain interactions"
+- title: "ML based prediction of cognitive impairement by understanding brain interactions in collaboration with Center for Brain Research"
   image: Pub_BCl.png
   description: Alzheimers disease (AD) currently affects about 5.3 million individuals in United States and more than 30 million worldwide with a significant increase predicted in the near future. Identifying markers that can affect the disease using machine learning techniques is important for timely treatment. 
   authors: Mariamma
   link:
     url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Read more
+    display:  Read more..
   highlight: 1
   news1: 
 
@@ -14,7 +14,7 @@
   authors: Ravi Raja
   link:
     url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Read more
-  highlight: 0
+    display:  Read more..
+  highlight: 1
   news2:
 

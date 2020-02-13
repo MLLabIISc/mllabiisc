@@ -1,4 +1,4 @@
-- title: "2015 : Best Student Paper Award."
+- title: "2015 : Best Student Paper Award"
   image: DomePub.png
   description: Paper Titled "Translation Induction on Indian Language Corpora using Translingual Themes from Other Languages" in CICLing 2015 got Best Student Paper Award.
   authors: Goutham Tholpadi, Chiranjib Bhattacharyya, Shirish Shevade
@@ -26,7 +26,7 @@
   link:
     url: 
     display: 
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "2006 : KDD Cup 2006 Best Student Submission"

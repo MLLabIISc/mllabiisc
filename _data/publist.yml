@@ -1,4 +1,4 @@
-- title: " Finding a latent "
+- title: " Finding a latent k-simplex in O* (k nnz(data)) time via Subset Smoothing."
   image:
   description:
   authors:  Chiranjib Bhattacharyya, Ravindran Kannan

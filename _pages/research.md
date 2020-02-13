@@ -3,7 +3,7 @@ title: "ML Lab - Awards"
 layout: gridlay
 excerpt: "ML Lab -- Awards."
 sitemap: false
-permalink: /research/
+permalink: /awards/
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "IISc ML Lab - Projects"
+title: "ML Lab - Projects"
 layout: textlay
 excerpt: "Projects"
 sitemap: false

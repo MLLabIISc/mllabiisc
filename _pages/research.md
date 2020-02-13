@@ -26,7 +26,7 @@ permalink: /research/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ award.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ award.image }}" class="img-responsive" width="33%" style="float: left" />
+<!--  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ award.image }}" class="img-responsive" width="33%" style="float: left" />-->
   <p>{{ award.description }}</p>
   <p><em>{{ award.authors }}</em></p>
   <p><strong><a href="{{ award.link.url }}">{{ award.link.display }}</a></strong></p>

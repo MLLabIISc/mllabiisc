@@ -17,7 +17,7 @@ permalink: /research/
 {% for award in site.data.awards %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% if award.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -25,13 +25,13 @@ permalink: /research/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <pubtit>{{ award.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ award.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ award.description }}</p>
+  <p><em>{{ award.authors }}</em></p>
+  <p><strong><a href="{{ award.link.url }}">{{ award.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ award.news1 }}</strong></p>
+  <p> {{ award.news2 }}</p>
  </div>
 </div>
 
@@ -54,10 +54,10 @@ permalink: /research/
 
 ## Full List
 
-{% for publi in site.data.publist %}
+{% for award in site.data.awards %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ award.title }} <br />
+  <em>{{ award.authors }} </em><br /><a href="{{ award.link.url }}">{{ award.link.display }}</a>
 
 {% endfor %}
 

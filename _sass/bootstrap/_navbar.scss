@@ -185,6 +185,9 @@
       margin-left: -$navbar-padding-horizontal;
     }
   }
+  @media (max-width: $grid-float-breakpoint-max) {
+    font-size: 14px;
+  }
 }
 
 

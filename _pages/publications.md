@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "ML Lab - Publications"
 layout: gridlay
-excerpt: "IISc ML Lab -- Publications."
+excerpt: "ML Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

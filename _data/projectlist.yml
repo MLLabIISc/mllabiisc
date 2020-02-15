@@ -3,18 +3,18 @@
   description: Alzheimers disease (AD) currently affects about 5.3 million individuals in United States and more than 30 million worldwide with a significant increase predicted in the near future. Identifying markers that can affect the disease using machine learning techniques is important for timely treatment. 
   authors: Mariamma
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
+    url: https://iisc-ml-group.github.io/
     display:  Read more..
   highlight: 1
   news1: 
 
-- title: "Program Syntesis using Machine Learning"
-  image: Fano.png
-  description: We develop, build and test techniques for doing program synthesis
-  authors: Ravi Raja
+- title: "Overlapping Community Detection"
+  image: rishab_project.png
+  description: Networks are ubiquitous in nature and they generally tend to have community structure in them. For example, in social networks, we form communities within ourselves and tend to be connected with more people who belong to our community. In real-world networks, these communities are found to be overlapping, i.e. each node can belong to several communities. E.g. in a social network, we connect with our family, friends and colleagues, all belonging to different communities. Detecting such overlapping communities with provable error bounds and scalability to massive networks is the primary goal of this project.
+  authors: Rishabh Gupta
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
+    url: https://iisc-ml-group.github.io/
     display:  Read more..
   highlight: 1
-  news2:
+  news1:
 

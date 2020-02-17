@@ -60,12 +60,14 @@ The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in
 
 
 
-To this end, we develop numerous machine learning algorithms and tools for complex real world applications. We want to be able to build AI enabled systems that solve problems for social good (see [Research](research)).
+To this end, we develop numerous machine learning algorithms and tools for complex real world applications. We want to be able to build AI enabled systems that solve problems for social good (see [Research](publications)).
 We are actively pursuing applications in the area of computational biology, object detection in images, video segmentation and summarization, detection of rare topics in text documents, statistical modeling of computer systems.
 
-We are located at Indian Institute of Science, Bangalore which is ([the silicon valley of India](https://en.wikipedia.org/wiki/Bangalore)). We are also collaborating with industries as well as other universities for cutting edge research.
+We are located at Indian Institute of Science, Bangalore which is [the silicon valley of India](https://en.wikipedia.org/wiki/Bangalore). We are also collaborating with industries as well as other universities for cutting edge research.
 
- **I am unable to respond to part-time, short-term (less than one year) and/or remote student mentorship requests.** Our collaborators: **!**
+ **I am unable to respond to part-time, short-term (less than one year) and/or remote student mentorship requests.** 
+ 
+ **Our collaborators:**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iisclogo.png" style="width: 210px;margin-right:20px">
@@ -77,3 +79,7 @@ We are located at Indian Institute of Science, Bangalore which is ([the silicon 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tatamotors.png" style="width: 200px;margin-right:20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/atimotors.png" style="width: 200px">
 </figure>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/freshworks.jpeg" style="width: 200px; margin-right:20px">
+</figure>
+

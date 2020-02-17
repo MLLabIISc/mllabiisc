@@ -1,8 +1,15 @@
--name: Lavanya Sita Tekumalla, 2011
--name: Adway Mitra, 2010
--name: Goutham Tholpadi, 2008
--name: S Raman, 2008
--name: Mrinal Kanti Das, 2007
--name: Sahely Bhadra, 2006
--name: Saketh Nath J, 2005
--name: Sourangshu Bhattacharya, 2003
+- name: Lavanya Sita Tekumalla, 2011
+  #  photo: .png
+  info: PhD (2011)
+  email: lavanya@iisc.ac.in
+  number_educ: 1
+  education1: 
+  linkedin: 
+
+- name: Adway Mitra, 2010
+- name: Goutham Tholpadi, 2008
+- name: S Raman, 2008
+- name: Mrinal Kanti Das, 2007
+- name: Sahely Bhadra, 2006
+- name: Saketh Nath J, 2005
+- name: Sourangshu Bhattacharya, 2003

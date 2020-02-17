@@ -185,11 +185,12 @@
       margin-left: -$navbar-padding-horizontal;
     }
   }
-  @media (max-width: $grid-float-breakpoint-max) {
-    font-size: 14px;
-  }
   @media (max-width: $screen-xs) {
     font-size: 12px;
+  }
+
+  @media (max-width: $grid-float-breakpoint-max) {
+    font-size: 14px;
   }
 }
 

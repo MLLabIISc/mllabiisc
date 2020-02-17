@@ -63,9 +63,9 @@ The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in
 To this end, we develop numerous machine learning algorithms and tools for complex real world applications. We want to be able to build AI enabled systems that solve problems for social good (see [Research](research)).
 We are actively pursuing applications in the area of computational biology, object detection in images, video segmentation and summarization, detection of rare topics in text documents, statistical modeling of computer systems.
 
-We are located at Indian Institute of Science, Bangalore which is the silicon valley of India (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We are also collaborating with industries as well as other universities for cutting edge research.
+We are located at Indian Institute of Science, Bangalore which is ([the silicon valley of India](https://en.wikipedia.org/wiki/Bangalore)). We are also collaborating with industries as well as other universities for cutting edge research.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **I am unable to respond to part-time, short-term (less than one year) and/or remote student mentorship requests.** Our collaborators: **!**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iisclogo.png" style="width: 210px;margin-right:20px">

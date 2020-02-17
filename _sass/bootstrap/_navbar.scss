@@ -188,6 +188,9 @@
   @media (max-width: $grid-float-breakpoint-max) {
     font-size: 14px;
   }
+  @media (max-width: $screen-xs) {
+    font-size: 13px;
+  }
 }
 
 

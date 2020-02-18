@@ -79,7 +79,7 @@ We are located at Indian Institute of Science, Bangalore which is [the silicon v
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tatamotors.png" style="width: 200px;margin-right:20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/atimotors.png" style="width: 200px">
 </figure>
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/freshworks.jpeg" style="width: 200px; margin-right:20px">
 </figure>
-
+ -->

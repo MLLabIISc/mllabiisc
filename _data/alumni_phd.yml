@@ -5,16 +5,16 @@
   education1: Industry - Over 9 years - Amazon, InMobi, Myntra, Kenome
   education2: Ph.D in Machine Learning (2011-2016), Dept. of CSA, Indian Institute of Science, Bangalore
   education3: Masters - Computer Graphics   ( 2002 - 2005 ) School of Computing, University of Utah
-  linkedin: linkedin.com/in/lavanyats
+  # linkedin: linkedin.com/in/lavanyats
 
 - name: Adway Mitra
   photo: adway.jpeg
   info: Assistant Professor, Indian Institute of Technology, Bhubaneshwar
   number_educ: 1
-  education1: Airbus Prize Postdoctoral Fellow, Company NameInternational Center for Theoretical Sciences
+  education1: Airbus Prize Postdoctoral Fellow, International Center for Theoretical Sciences
   education2: Ph.D in Machine Learning 2010, Dept. of CSA, Indian Institute of Science, Bangalore
   education3: M.E., Computer Science, Indian Institute of Science (IISc)
-  linkedin: https://www.linkedin.com/in/adway-mitra-89a5ba1b/?originalSubdomain=in
+  # linkedin: https://www.linkedin.com/in/adway-mitra-89a5ba1b/?originalSubdomain=in
 
 - name: Goutham Tholpadi
   photo: goutham.jpeg
@@ -22,7 +22,7 @@
   number_educ: 1
   education1: Data Science for Advertising, Microsoft Research
   education2: Ph.D in Machine Learning 2014, Dept. of CSA, Indian Institute of Science, Bangalore
-  linkedin: https://www.linkedin.com/in/gtholpadi/?originalSubdomain=in
+  # linkedin: https://www.linkedin.com/in/gtholpadi/?originalSubdomain=in
 
 - name: S Raman
   photo: raman.jpeg
@@ -30,20 +30,20 @@
   number_educ: 1
   education1: Ph.D in Machine Learning 2017, Dept. of CSA, Indian Institute of Science, Bangalore
   education2: M.S., Computer Science, Indian Institute of Science (IISc)
-  linkedin: https://www.linkedin.com/in/raman-sankaran-9594956/?originalSubdomain=in
+  # linkedin: https://www.linkedin.com/in/raman-sankaran-9594956/?originalSubdomain=in
 
 - name: <a href="https://nmrinl.github.io/">Mrinal Kanti Das</a>
   photo: mrinal.jpg
-  info: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Palakkad, India
-  number_educ: 2
+  info: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Palakkad
+  number_educ: 1
   education1: Postdoc. Department of Computer Science, UMass, Amherst, MA, USA.
   education2: Postdoc. Department of Computer Science, Aalto University in Helsinki, Finland.
   education3: Ph.D in Machine Learning 2012, Dept. of CSA, Indian Institute of Science, Bangalore
 
 - name: <a href="https://iitpkd.ac.in/people/sahely">Sahely Bhadra</a>
   photo: sahely.png
-  info: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Palakkad, India
-  number_educ: 2
+  info: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Palakkad
+  number_educ: 1
   education1: Postdoc. Network Science Institute, Northeastern University, USA 
   education2: Postdoc. Helsinki Institute of Information Technology, Aalto University, Finland 
   education3: Postdoc. Max-Planck-Institute for Informatik and Saarland University, Germany
@@ -51,16 +51,16 @@
 
 - name: <a href="https://iith.ac.in/~saketha/about.html">Saketh Nath J</a>
   photo: saketh.jpg
-  info: Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology Hyderabad, India
+  info: Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology Hyderabad
   number_educ: 1
-  education1: Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology Bombay, India
+  education1: Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology Bombay
   education2: Postdoc. Helsinki Institute of Information Technology, Aalto University, Finland 
   education3: Postdoc. Max-Planck-Institute for Informatik and Saarland University, Germany
   education4: Ph.D in Machine Learning 2012, Dept. of CSA, Indian Institute of Science, Bangalore
 
 - name: <a href="https://cse.iitkgp.ac.in/~sourangshu/">Sourangshu Bhattacharya</a>
   photo: sourangshu.jpg
-  info: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India
+  info: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur
   number_educ: 1
   education1: Scientist in Yahoo! Labs, Bangalore
   education2: Postdoc. Helsinki Institute of Information Technology, Aalto University, Finland 

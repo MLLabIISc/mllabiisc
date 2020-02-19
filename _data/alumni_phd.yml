@@ -17,7 +17,7 @@
   linkedin: https://www.linkedin.com/in/adway-mitra-89a5ba1b/?originalSubdomain=in
 
 - name: Goutham Tholpadi
-  photo: adway.jpeg
+  photo: goutham.jpeg
   info: Data Science for Datacenters, Peritus.ai
   number_educ: 2
   education1: Data Science for Advertising, Microsoft Research
@@ -32,9 +32,24 @@
   education2: M.S., Computer Science, Indian Institute of Science (IISc)
   linkedin: https://www.linkedin.com/in/raman-sankaran-9594956/?originalSubdomain=in
 
+- name: <a href="https://nmrinl.github.io/">Mrinal Kanti Das</a>
+  photo: mrinal.jpg
+  info: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Palakkad, India
+  number_educ: 3
+  education1: Postdoc. Department of Computer Science, UMass, Amherst, MA, USA.
+  education2: Postdoc. Department of Computer Science, Aalto University in Helsinki, Finland.
+  education3: Ph.D in Machine Learning 2012, Dept. of CSA, Indian Institute of Science, Bangalore
+
+- name: <a href="https://iitpkd.ac.in/people/sahely">Sahely Bhadra</a>
+  photo: sahely.png
+  info: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Palakkad, India
+  number_educ: 4
+  education1: Postdoc. Network Science Institute, Northeastern University, USA 
+  education2: Postdoc. Helsinki Institute of Information Technology, Aalto University, Finland 
+  education3: Postdoc. Max-Planck-Institute for Informatik and Saarland University, Germany
+  education4: Ph.D in Machine Learning 2012, Dept. of CSA, Indian Institute of Science, Bangalore
 
 
-# - name: Mrinal Kanti Das, 2007
-# - name: Sahely Bhadra, 2006
+
 # - name: Saketh Nath J, 2005
 # - name: Sourangshu Bhattacharya, 2003

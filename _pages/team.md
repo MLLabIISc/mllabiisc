@@ -405,13 +405,13 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row" id="masters">
 {% endif %}
 
 <div class="col-sm-6 clearfix">
 <!--  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />-->
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+ <!-- <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
       {% if member.number_educ == 1 %}
       <li> {{ member.education1 }} </li>
@@ -447,7 +447,7 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
         <a href="{{ member.linkedin }}">LinkedIn</a>
       {% endif %}
 
-  </ul>
+  </ul>-->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

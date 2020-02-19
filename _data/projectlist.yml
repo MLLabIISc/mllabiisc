@@ -18,3 +18,16 @@
   highlight: 1
   news1:
 
+- title: "Program Synthesis using Machine Learning"
+  image: rishab_project.png
+  description:  Program synthesis has its roots in formal methods and programming languages. The goal of program synthesis is to automatically generate a program (from a space of possible programs) which satisfies a specification written in logic. The problem has its roots in a paper by Church in 1957, and the initial breakthroughs were made by Buchi and Landweber (1969) and M O Rabin (1972), who showed that the synthesis problem is decidable for specifications written in certain logics. However, the complexity of the algorithms was too high (non-elementary to exptime) to be useful in practice.
+
+Recent formulations have made synthesis more practical. In his PhD thesis, Solar-Lezama formulated synthesis as "sketching" , a process where part of the program is given by the user as a template and the synthesizer merely fills in "holes" in the sketch using search. Another recent formulation, due to Sumit Gulwani uses input/output examples (rather than formulas) as specifications , and uses clever search algorithms to generate appropriate programs. Sparked by these two works, there has been a resurgence or work in program synthesis in the past decade. There is an annual Sygus competition where practical tools compete every year.
+
+Recently there is an interesting interplay developing between program synthesis and machine learning. Machine learning uses continuous optimization methods to learn models that minimize a specified loss function, whereas program synthesis uses discrete combinatorial search to learn programs that satisfy a specification. While program synthesis produces interpretable programs, which can be formally verified, machine learning deals with noise in the inputs more gracefully. There is a rich body of recent work in combining machine learning and program synthesis to get the benefits of both approaches. 
+  authors: Ravi Raja
+  link:
+    url: https://www.csa.iisc.ac.in/~deepakd/psml-2020/
+    display:  Read more..
+  highlight: 1
+  news1:

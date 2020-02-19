@@ -398,7 +398,7 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
 {% endif %}
 
 ## Alumni (M Tech) 
-
+###*Year mentioned is the joining year 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_masters %}
 

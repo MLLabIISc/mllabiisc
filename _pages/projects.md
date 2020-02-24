@@ -10,7 +10,7 @@ permalink: /projects
 
 ## Highlights
 
-(For a list of publications, see [publications]("{{ site.url }}{{ site.baseurl }}/publications")
+For a list of publications, see [publications]({{ site.url }}{{ site.baseurl }}publications/)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.projectlist %}

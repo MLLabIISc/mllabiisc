@@ -452,3 +452,31 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+## Alumni (Project Associates) 
+** Year mentioned is the joining year
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni_project_asso %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row" id="masters">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}

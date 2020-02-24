@@ -37,13 +37,13 @@ The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fateworkshop.jpeg" alt="Slide 4" />
         </div>
-<!--        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab1.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab2.jpg" alt="Slide 6" />
         </div>       
-         <div class="item">
+<!--         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
         </div> -->
     </div>

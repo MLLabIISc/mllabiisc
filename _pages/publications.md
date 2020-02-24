@@ -3,11 +3,13 @@ title: "ML Lab - Publications"
 layout: gridlay
 excerpt: "ML Lab -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 
 # Publications
+
+For a full list go to [Google Scholar](https://scholar.google.com/citations?user=SbYoEmQAAAAJ&hl=en)
 
 {% for publi in site.data.publist %}
 

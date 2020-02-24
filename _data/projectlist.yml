@@ -18,7 +18,7 @@
   highlight: 1
   news1:
 
-- title: "Program Synthesis using Machine Learning"
+- title: "Program Synthesis meets Machine Learning"
   image: ps.png
   description:  Program synthesis has its roots in formal methods and programming languages. The goal of program synthesis is to automatically generate a program (from a space of possible programs) which satisfies a specification written in logic. The problem has its roots in a paper by Church in 1957, and the initial breakthroughs were made by Buchi and Landweber (1969) and M O Rabin (1972), who showed that the synthesis problem is decidable for specifications written in certain logics. However, the complexity of the algorithms was too high (non-elementary to exptime) to be useful in practice. Recently there is an interesting interplay developing between program synthesis and machine learning. Machine learning uses continuous optimization methods to learn models that minimize a specified loss function, whereas program synthesis uses discrete combinatorial search to learn programs that satisfy a specification. While program synthesis produces interpretable programs, which can be formally verified, machine learning deals with noise in the inputs more gracefully. There is a rich body of recent work in combining machine learning and program synthesis to get the benefits of both approaches. 
   authors: Ravi Raja

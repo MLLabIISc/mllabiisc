@@ -9,7 +9,7 @@ permalink: /
 The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in/) was setup to study theoretical and applied aspects of machine learning in various domains. Our aim is to explore and understand artificial intelligence, including machine learning, deep learning, numerical optimization, and natural language processing. Recently we have added program synthesis meets machine learning as a new research paradigm. 
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" style=" width:100%; height: 400px !important;overflow:hidden;" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>

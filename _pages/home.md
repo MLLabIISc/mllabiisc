@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Machine Learning Lab of [The Department of Computer Science and Automation](https://csa.iisc.ac.in) at [Indian Institute of Science](https://www.iisc.ac.in/) was setup to study theoretical and applied aspects of machine learning in various domains. Our aim is to explore and understand artificial intelligence, including machine learning, deep learning, numerical optimization, and natural language processing. Recently we have added program synthesis meets machine learning as a new research paradigm. 
+The Machine Learning Lab of the [Department of Computer Science and Automation](https://csa.iisc.ac.in) at [Indian Institute of Science](https://www.iisc.ac.in/) was setup to study theoretical and applied aspects of machine learning in various domains. Our aim is to explore and understand artificial intelligence, including machine learning, deep learning, numerical optimization, and natural language processing. Recently we have added program synthesis meets machine learning as a new research paradigm. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover"  >

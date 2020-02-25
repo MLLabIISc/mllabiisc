@@ -14,7 +14,7 @@
   width: 100%;
 
   > .item {
-    height: 400px;
+    
     display: none;
     position: relative;
     @include transition(.6s ease-in-out left);

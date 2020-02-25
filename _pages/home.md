@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Machine Learning Lab of [Indian Institute of Science](https://www.iisc.ac.in/) was setup to study theoretical and applied aspects of machine learning in various domains. Our aim is to explore and understand artificial intelligence, including machine learning, deep learning, numerical optimization, and natural language processing. Recently we have added program synthesis meets machine learning as a new research paradigm. 
+The Machine Learning Lab of [Department of Computer Science and Automation](https://csa.iisc.ac.in) [Indian Institute of Science](https://www.iisc.ac.in/) was setup to study theoretical and applied aspects of machine learning in various domains. Our aim is to explore and understand artificial intelligence, including machine learning, deep learning, numerical optimization, and natural language processing. Recently we have added program synthesis meets machine learning as a new research paradigm. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover"  >
@@ -65,8 +65,8 @@ We are actively pursuing applications in the area of computational biology, obje
 
 We are located at Indian Institute of Science, Bangalore which is [the silicon valley of India](https://en.wikipedia.org/wiki/Bangalore). We are also collaborating with industries as well as other universities for cutting edge research.
 
- **I am unable to respond to part-time, short-term (less than one year) and/or remote student mentorship requests.** 
- 
+ **We are unable to respond to part-time, short-term (less than one year) and/or remote student mentorship requests.** 
+ **No positions open currently**
  **Our collaborators:**
 
 <figure class="fourth">

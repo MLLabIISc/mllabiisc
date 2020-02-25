@@ -73,10 +73,11 @@ We are located at Indian Institute of Science, Bangalore which is [the silicon v
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/msrlogo.gif" style="width: 210px;margin-right:20px">
  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm.png" style="width: 200px; margin-right:20px">-->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 200px; margin-right:20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/microsoft.png" style="width: 180px">
 </figure>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 200px; margin-right:20px">
+
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tatamotors.png" style="width: 200px;margin-right:20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/atimotors.png" style="width: 200px">
 </figure>

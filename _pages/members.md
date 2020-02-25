@@ -397,7 +397,7 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
 </div>
 {% endif %}
 
-## Alumni (M Tech Research) 
+## Alumni (Masters Research) 
 ** Year mentioned is the joining year
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_master_res %}
@@ -425,7 +425,7 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
 </div>
 {% endif %}
 
-## Alumni (M Tech) 
+## Alumni (Masters) 
 ** Year mentioned is the joining year
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_masters %}

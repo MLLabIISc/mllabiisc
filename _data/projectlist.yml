@@ -44,7 +44,7 @@
 
   authors: Nabanita and Siddharth
   link:
-    url: {{ site.url }}{{ site.baseurl }}/tsar.html
+    url: https://iisc-ml-group.github.io/tsar.html
     display: Read more...  
   highlight: 1
   news1:

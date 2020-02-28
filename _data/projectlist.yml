@@ -38,3 +38,13 @@
     display:  
   highlight: 1
   news1:
+
+- title: "Teaching assistance through social robotics for children with autism"
+  description: In this project, we sought to develop technological assistance for improving communication in autistic children using social robotics. Using a robot, we have built conversational AI-based solutions and  demonstrated a proof of concept  (POC) at ASHA, a leading special needs school. The POC mainly focused on improving communication challenges faced by ASD children. At the end of seven sessions with six children, there was a reduction in the prompts needed by all the children to perform tasks and the accuracy of answers also increased. Two of the children performed tasks in English  (which was not their language of choice and not used by special educators in their classrooms). One child had an improvement in sentence construction while interacting with the robot and another child showed improved motivation to write and recall spellings due to the robot’s feedback.
+
+  authors: Nabanita and Siddharth
+  link:
+    url: <a href="{{ site.url }}{{ site.baseurl }}/tsar.html"></a>
+    display: Read more...  
+  highlight: 1
+  news1:

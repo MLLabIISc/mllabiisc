@@ -182,6 +182,11 @@ Jump to [faculties](#faculties), [PhD students](#phd-students), [master students
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+
+  
+  {% if member.linkedin %}
+    <a href="{{ member.linkedin }}">LinkedIn</a>
+  {% endif %}
   </ul>
 </div>
 

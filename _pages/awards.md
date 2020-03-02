@@ -61,6 +61,8 @@ permalink: /awards
   <em>{{ award.authors }} </em><br /><a href="{{ award.link.url }}">{{ award.link.display }}</a>
 
 {% endfor %}-->
+{% assign number_printed = 0 %}
+{% for award in site.data.awards %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if award.highlight == 1 %}

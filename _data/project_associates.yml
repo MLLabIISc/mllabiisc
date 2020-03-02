@@ -5,4 +5,23 @@
   number_educ: 2
   education1: M.Tech, Computer Science and Engineering, Indian Institute of Technology, Guwahati
   education2: Worked at Envestnet | Yodlee
-  LinkedIn: www.linkedin.com/in/iamprashantk    
+  LinkedIn: https://www.linkedin.com/in/iamprashantk    
+
+
+- name: Sabyasachi Sahoo
+  photo: saby.jpg
+  info: Project Associate (Autonomous Systems), IISc.
+  email: sabyasachis@iisc.ac.in
+  number_educ: 3
+  education1: M.Tech in Computational Science from CDS department at IISc
+  education2: B.Tech in Mechanical Engineering from NIT – Surat
+
+
+- name: Vineetha Kondameedi
+  photo: vini.jpeg
+  info: Project Associate, Robert Bosch Centre for Cyber Physical Systems, IISc.
+  email: vineethak@iisc.ac.in
+  number_educ: 2
+  education1: M.Tech in Computational Science from CDS department at IISc
+  education2: B Tech NIT Warangal
+  LinkedIn: https://www.linkedin.com/in/vineetha-kondameedi-0a871273/

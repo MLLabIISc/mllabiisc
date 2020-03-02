@@ -6,7 +6,7 @@ sitemap: false
 permalink: /awards
 ---
 
-[Awards](#awards) | Go to [Press](#press)
+Go to [Press](#press)
 
 # Awards & Press
 

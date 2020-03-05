@@ -10,18 +10,18 @@
 
 - name: Sabyasachi Sahoo
   photo: saby.jpg
-  info: Project Associate (Autonomous Systems), IISc.
+  info: Project Associate Robert Bosch Centre for Cyber Physical Systems(Autonomous Systems), Indian Institute of Science, Bengaluru
   email: sabyasachis@iisc.ac.in
-  number_educ: 3
-  education1: M.Tech in Computational Science from CDS department at IISc
-  education2: B.Tech in Mechanical Engineering from NIT – Surat
+  number_educ: 2
+  education1: M.Tech, Computational Science, Department of Computational and Data Sciences, Indian Institute of Science, Bengaluru
+  education2: B.Tech, Mechanical Engineering, National Institute of Technology, Surat
 
 
 - name: Vineetha Kondameedi
   photo: vini.jpeg
-  info: Project Associate, Robert Bosch Centre for Cyber Physical Systems, IISc.
+  info: Project Associate, Robert Bosch Centre for Cyber Physical Systems, Indian Institute of Science, Bengaluru
   email: vineethak@iisc.ac.in
   number_educ: 2
-  education1: M.Tech in Computational Science from CDS department at IISc
-  education2: B Tech NIT Warangal
+  education1: M.Tech, Computational Science, Department of Computational and Data Sciences, Indian Institute of Science, Bengaluru
+  education2: B.Tech, National Institute of Technology, Warangal
   LinkedIn: https://www.linkedin.com/in/vineetha-kondameedi-0a871273/

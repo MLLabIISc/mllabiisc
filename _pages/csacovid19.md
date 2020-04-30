@@ -10,9 +10,9 @@ COVID-19 PROJECTS FROM CSA, IISC
 
 # Project Title: Lockdown and other policies for containing COVID19 in Small worlds
 
-## Authors: V. Vinay (ATI Motors) and C. Bhattacharyya (CSA, IISc) 
+### Authors: V. Vinay (ATI Motors) and C. Bhattacharyya (CSA, IISc) 
 
-## Contact: chiru@iisc.ac.in, vinay@atimotors.com 
+### Contact: chiru@iisc.ac.in, vinay@atimotors.com 
 
 ### Our aim in this project is to understand what policies can be implemented post lockdown.
 
@@ -26,10 +26,10 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 
 3. A policy such as Ward wise sealing and Opening depending on the infection levels in the ward not only has the lowest attack rate, the percentage of total population infected, but also requires the shortest time for the epidemic to end.
 
-### A preliminary draft is available here 
+#### A preliminary draft is available [here](https://github.com/MLLabIISc/mllabiisc.github.io/blob/master/_data/suppression_strategies.pdf) 
 
 
-## Stay tuned for more projects 
+### Stay tuned for more projects 
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}

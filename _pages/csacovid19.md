@@ -6,6 +6,7 @@ permalink: /csacovid19/
 ---
 
 <h1 style="color:red; text-align:center;">COVID-19 PROJECTS FROM CSA, IISC</h1>
+<hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
 <h2 style="color:#108896"> Project Title: Lockdown and other policies for containing COVID19 in Small worlds </h2>
 <hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
 
@@ -14,7 +15,7 @@ permalink: /csacovid19/
 ##### Contact: chiru@iisc.ac.in, vinay@atimotors.com 
 
 
-#### Our aim in this project is to understand what policies can be implemented post lockdown.
+<h4><u> Our aim in this project is to understand what policies can be implemented post lockdown</u></h4>.
 
 Small world models are useful tools in Network Epidemiology. A city consists of many wards. We model such cities as a Multi-Lattice Small World(MLSW) network where each ward of a city is modelled as a 2D lattice and nearby wards are connected together.  We simulate several interventions on MLSW and study their effectiveness in 
 

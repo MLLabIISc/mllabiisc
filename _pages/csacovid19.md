@@ -5,12 +5,12 @@ excerpt: "ML Lab -- COVID19"
 permalink: /csacovid19/
 ---
 
-# Pictures
-Jump to: [Videos](#videos)
 
-COVID-19 PROJECTS FROM CSA, IISC
-=========
 
+```diff
+- COVID-19 PROJECTS FROM CSA, IISC
+=============
+```
 
 
 

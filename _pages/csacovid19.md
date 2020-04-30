@@ -12,7 +12,7 @@ permalink: /csacovid19/
 
 ##### Authors: V. Vinay (ATI Motors) and C. Bhattacharyya (CSA, IISc) 
 
-##### Contact: chiru@iisc.ac.in, vinay@atimotors.com 
+##### Contact: vinay@atimotors.com, chiru@iisc.ac.in
 
 <br>
 
@@ -31,7 +31,7 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 ##### A preliminary draft is available [here](https://drive.google.com/file/d/14UltuxOJE_CvM9qCvGXW_oj6puY6ame5/view) 
 
 
-<h4 style="text-align:center; color:red;">Stay tuned for more projects</h4> 
+<h4 style="text-align:center; color:red;">Stay tuned for more projects!</h4> 
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}

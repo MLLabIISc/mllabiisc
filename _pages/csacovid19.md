@@ -26,7 +26,7 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 
 3. A policy such as Ward wise sealing and Opening depending on the infection levels in the ward not only has the lowest attack rate, the percentage of total population infected, but also requires the shortest time for the epidemic to end.
 
-#### A preliminary draft is available [here](https://github.com/MLLabIISc/mllabiisc.github.io/blob/master/_data/suppression_strategies.pdf) 
+#### A preliminary draft is available [here](https://drive.google.com/file/d/14UltuxOJE_CvM9qCvGXW_oj6puY6ame5/view) 
 
 
 ### Stay tuned for more projects 

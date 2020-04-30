@@ -14,7 +14,7 @@ permalink: /csacovid19/
 
 ##### Contact: chiru@iisc.ac.in, vinay@atimotors.com 
 
-
+</br>
 
 <h5><u> Our aim in this project is to understand what policies can be implemented post lockdown.</u></h5>
 

@@ -64,4 +64,4 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 </div>
 {% endif %}
 
-<p style="color:red"> Hello test &nbsp; </p>
+<p> &nbsp; </p>

@@ -5,10 +5,9 @@ excerpt: "ML Lab -- COVID19"
 permalink: /csacovid19/
 ---
 
-COVID-19 PROJECTS FROM CSA, IISC
-================================
+<h1 style="color:red; text-align:center;">COVID-19 PROJECTS FROM CSA, IISC</h1>
 <h2 style="color:#108896"> Project Title: Lockdown and other policies for containing COVID19 in Small worlds </h2>
-<hr style="width:100%;text-align:left;margin-left:0;height:10px;color:#1B374C">
+<hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
 
 ##### Authors: V. Vinay (ATI Motors) and C. Bhattacharyya (CSA, IISc) 
 

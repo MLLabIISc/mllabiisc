@@ -15,7 +15,8 @@ permalink: /csacovid19/
 ##### Contact: chiru@iisc.ac.in, vinay@atimotors.com 
 
 
-<h4><u> Our aim in this project is to understand what policies can be implemented post lockdown</u></h4>.
+
+<h5><u> Our aim in this project is to understand what policies can be implemented post lockdown.</u></h5>
 
 Small world models are useful tools in Network Epidemiology. A city consists of many wards. We model such cities as a Multi-Lattice Small World(MLSW) network where each ward of a city is modelled as a 2D lattice and nearby wards are connected together.  We simulate several interventions on MLSW and study their effectiveness in 
 

@@ -8,7 +8,7 @@ permalink: /csacovid19/
 COVID-19 PROJECTS FROM CSA, IISC
 ================================
 <h2 style="color:red"> Project Title: Lockdown and other policies for containing COVID19 in Small worlds </h2>
-
+<hr style="width:100%;text-align:left;margin-left:0">
 
 ##### Authors: V. Vinay (ATI Motors) and C. Bhattacharyya (CSA, IISc) 
 

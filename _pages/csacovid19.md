@@ -34,7 +34,7 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 <h2 style="color:#108896"> Project Title: CovidWATCH </h2>
 <hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
 
-##### Lead Developers: Niharika Venkatesh(AIfoundry) and Nabanita Paul(IISc) 
+##### Lead Developers - Niharika Venkatesh(AIfoundry) and Nabanita Paul(IISc) 
 
 ##### Advised by Arvind Saraf(AIfoundry) and Chiranjib Bhattacharyya(IISc)
 

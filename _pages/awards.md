@@ -1,7 +1,7 @@
 ---
-title: "ML Lab - Awards"
+title: "ML Lab - Awards & Press"
 layout: gridlay
-excerpt: "ML Lab -- Awards."
+excerpt: "ML Lab -- Awards & Press"
 sitemap: false
 permalink: /awards
 ---

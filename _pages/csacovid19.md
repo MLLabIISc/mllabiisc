@@ -30,7 +30,7 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 
 ##### A preliminary draft is available [here](https://drive.google.com/file/d/14UltuxOJE_CvM9qCvGXW_oj6puY6ame5/view) 
 
-#### Press Release: [Sealing areas with higher Covid-19 cases or 2-day work week with lockdown can contain virus, shorten epidemic duration: Analysis - mumbai news - Hindustan Times](https://www.hindustantimes.com/mumbai-news/sealing-areas-with-higher-covid-19-cases-or-2-day-work-week-with-lockdown-can-contain-virus-shorten-epidemic-duration-analysis/story-4XQBmv4KaJ4yBoZmgEI51I.html)
+#### Press Coverage: [Sealing areas with higher Covid-19 cases or 2-day work week with lockdown can contain virus, shorten epidemic duration: Analysis - mumbai news - Hindustan Times](https://www.hindustantimes.com/mumbai-news/sealing-areas-with-higher-covid-19-cases-or-2-day-work-week-with-lockdown-can-contain-virus-shorten-epidemic-duration-analysis/story-4XQBmv4KaJ4yBoZmgEI51I.html)
 
 <hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
 <h2 style="color:#108896"> Project 2: CovidWATCH - A rapid COVID-19 monitoring tool for regions with low smartphone penetration </h2>

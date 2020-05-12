@@ -1,18 +1,18 @@
-- title: "Jan 2016 :  Machine intelligence set to revolutionise data analytics"
-  image: DomePub.png
-  description: The 18-member task group is co-chaired by Chiranjib Bhattacharya, professor, Department of Computer Science and Automation, Indian Institute of Science and Venkatesh Valluri, chairman and president of Ingersoll Rand (India Region).
-  authors: 
-  link:
-    url: https://www.deccanherald.com/content/524237/machine-intelligence-set-revolutionise-data.html
-    display: Read more...  
-  highlight: 1
-  news2:
 - title: "May 12 2020 :  Sealing areas with higher Covid-19 cases or 2-day work week with lockdown can contain virus, shorten epidemic duration: Analysis"
   image: DomePub.png
   description: Lockdowns, though an effective policy for containment, imposes a heavy cost on the economy as it enforces extreme social distancing measures on the whole population. Unemployment is an inevitable outcome of economic downturn and lockdowns have resulted in significant job losses
   authors: 
   link:
     url: https://www.hindustantimes.com/mumbai-news/sealing-areas-with-higher-covid-19-cases-or-2-day-work-week-with-lockdown-can-contain-virus-shorten-epidemic-duration-analysis/story-4XQBmv4KaJ4yBoZmgEI51I.html
+    display: Read more...  
+  highlight: 1
+  news2:
+- title: "Jan 2016 :  Machine intelligence set to revolutionise data analytics"
+  image: DomePub.png
+  description: The 18-member task group is co-chaired by Chiranjib Bhattacharya, professor, Department of Computer Science and Automation, Indian Institute of Science and Venkatesh Valluri, chairman and president of Ingersoll Rand (India Region).
+  authors: 
+  link:
+    url: https://www.deccanherald.com/content/524237/machine-intelligence-set-revolutionise-data.html
     display: Read more...  
   highlight: 1
   news2:

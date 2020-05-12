@@ -30,6 +30,15 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 
 ##### A preliminary draft is available [here](https://drive.google.com/file/d/14UltuxOJE_CvM9qCvGXW_oj6puY6ame5/view) 
 
+<hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
+<h2 style="color:#108896"> Project Title: CovidWATCH </h2>
+<hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
+
+##### Lead Developers: Niharika Venkatesh(AIfoundry) and Nabanita Paul(IISc) 
+
+##### Advised by Arvind Saraf(AIfoundry) and Chiranjib Bhattacharyya(IISc)
+
+##### COLLABORATION BETWEEN INDIAN INSTITUTE OF SCIENCE (IISC) & AI FOUNDRY, BENGALURU
 
 <h4 style="text-align:center; color:red;">Stay tuned for more projects!</h4> 
 

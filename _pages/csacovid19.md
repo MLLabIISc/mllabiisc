@@ -42,6 +42,8 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 
 ##### Advised by: Arvind Saraf(AIfoundry) and Chiranjib Bhattacharyya(IISc)
 
+##### Contact: arvind@aifoundry.ai, chiru@iisc.ac.in
+
 <br>
 
 <h4><i>COLLABORATION BETWEEN INDIAN INSTITUTE OF SCIENCE (IISC) & AI FOUNDRY, BENGALURU</i></h4>

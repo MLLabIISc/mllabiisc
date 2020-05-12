@@ -38,7 +38,9 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 
 ##### Advised by Arvind Saraf(AIfoundry) and Chiranjib Bhattacharyya(IISc)
 
-##### COLLABORATION BETWEEN INDIAN INSTITUTE OF SCIENCE (IISC) & AI FOUNDRY, BENGALURU
+<h4><i>COLLABORATION BETWEEN INDIAN INSTITUTE OF SCIENCE (IISC) & AI FOUNDRY, BENGALURU</i></h4>
+
+<br>
 
 <h5><u> Covid Watch is a rapid monitoring tool developed for areas with low smartphone penetration.</u></h5>
 

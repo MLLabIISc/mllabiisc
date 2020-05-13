@@ -6,9 +6,9 @@ permalink: /csacovid19/
 ---
 
 <h1 style="color:red; text-align:center;">COVID-19 PROJECTS FROM CSA, IISC</h1>
-<hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
+<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
 <h2 style="color:#108896"> Project 1: Lockdown and other policies for containing COVID19 in Small worlds </h2>
-<hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
+<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
 
 ##### Authors: V. Vinay (ATI Motors) and C. Bhattacharyya (CSA, IISc) 
 
@@ -32,9 +32,9 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 
 #### Press Coverage: [Sealing areas with higher Covid-19 cases or 2-day work week with lockdown can contain virus, shorten epidemic duration: Analysis - mumbai news - Hindustan Times](https://www.hindustantimes.com/mumbai-news/sealing-areas-with-higher-covid-19-cases-or-2-day-work-week-with-lockdown-can-contain-virus-shorten-epidemic-duration-analysis/story-4XQBmv4KaJ4yBoZmgEI51I.html)
 
-<hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
+<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
 <h2 style="color:#108896"> Project 2: CovidWATCH - A rapid COVID-19 monitoring tool for regions with low smartphone penetration </h2>
-<hr style="width:100%;text-align:center;margin-left:0;height:10px;color:#1B374C">
+<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
 
 ##### Lead Developers: Niharika Venkatesh(AIfoundry) and Nabanita Paul(IISc) 
 

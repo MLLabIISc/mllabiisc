@@ -5,7 +5,7 @@ excerpt: "ML Lab -- COVID19"
 permalink: /csacovid19/
 ---
 
-<h1 style="color:red; text-align:center; font-size: 80px; font-family: -webkit-pictograph; inline-size: -webkit-fill-available; line-height:2; box-shadow: 0px 0px 10px 0px #106a8c; text-shadow: -2px 3px 3px #333;">COVID-19 PROJECTS FROM CSA, IISC</h1>
+<h1 style="color:red; text-align:center; font-size: 50px; font-family: -webkit-pictograph; inline-size: -webkit-fill-available; line-height:2; box-shadow: 0px 0px 10px 0px #106a8c; text-shadow: -2px 3px 3px #333;">COVID-19 PROJECTS FROM CSA, IISC</h1>
 <hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
 <h2 style="color:#108896"> Project 1: Lockdown and other policies for containing COVID19 in Small worlds </h2>
 <hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">

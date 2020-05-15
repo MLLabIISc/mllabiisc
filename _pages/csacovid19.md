@@ -57,6 +57,8 @@ It offers a basic screening test based on ICMR strategy and a symptom tracker to
 A slide deck detailing the tool is available [here](https://drive.google.com/open?id=1G6fbV0fzH9Xo9_y2zdZqnmEQRgpoJ8bc).
 
 <br>
+
+<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
 <h4 style="text-align:center; color:red;">Stay tuned for more projects!</h4> 
 
 {% assign number_printed = 0 %}

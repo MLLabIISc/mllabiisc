@@ -59,6 +59,40 @@ A slide deck detailing the tool is available [here](https://drive.google.com/ope
 <br>
 
 <hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
+
+
+<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
+<h2 style="color:#108896"> Project 3: COVID SWIFT - RAPID AI SOLUTIONS </h2>
+<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
+
+##### Lead Developers: Sabyasachi Saho(IISc), Prashant Kumar(IISc), Santosh Shet(IISc), Siva Teja Kakileti(Niramai), and Hariharan Vijayakumar(Niramai)
+
+##### Contact: 
+
+##### Advised by: Chiranjib Bhattacharyya(IISc), Geetha Manjunath(Niramai), and Dr. Padmanabha Kamath(KMC)
+
+##### Contact: chiru@iisc.ac.in
+
+<br>
+
+<h4><i>COLLABORATION BETWEEN INDIAN INSTITUTE OF SCIENCE (IISC), NIRAMAI & KMC, BENGALURU</i></h4>
+
+<br>
+
+<h5><u> COVID SWIFT is a Rapid AI solution for Diagnosing COVID-19 using Chest X-RAY</u></h5>
+
+We use state of art deep learning models to provide with likely COVID-19 and Pneumonia predictions. Our aim is to identify affected lung regions that can help doctors understand the severity of illness of their patients.
+
+
+This is a free Whatsapp based service to provide with swift diagnosis of potential COVID19 patients by analyzing Chest X-Ray images. We are running a small scale pilot where interested doctors within minutes, can receive a machine generated X-ray Report (as the one shown below) on sending us chest X-Ray of suspicious patients.
+
+For more information on this please visit [COVID SWIFT](http://bit.ly/covid-swift).
+
+<br>
+
+<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
+
+
 <h4 style="text-align:center; color:red;">Stay tuned for more projects!</h4> 
 
 {% assign number_printed = 0 %}

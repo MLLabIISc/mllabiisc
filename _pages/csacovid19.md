@@ -12,7 +12,7 @@ permalink: /csacovid19/
 
 ##### Authors: V. Vinay (ATI Motors) and C. Bhattacharyya (CSA, IISc) 
 
-##### Contact: vinay@atimotors.com, chiru@iisc.ac.in
+##### Contact(left to right): vinay@atimotors.com, chiru@iisc.ac.in
 
 <br>
 
@@ -38,11 +38,11 @@ Suppressing COVID19 on such networks. Our study highlights three findings
 
 ##### Lead Developers: Niharika Venkatesh(AIfoundry) and Nabanita Paul(IISc) 
 
-##### Contact: niharika@aifoundry.ai, nabanitapaul@iisc.ac.in
+##### Contact(left to right): niharika@aifoundry.ai, nabanitapaul@iisc.ac.in
 
 ##### Advised by: Arvind Saraf(AIfoundry) and Chiranjib Bhattacharyya(IISc)
 
-##### Contact: arvind@aifoundry.ai, chiru@iisc.ac.in
+##### Contact(left to right): arvind@aifoundry.ai, chiru@iisc.ac.in
 
 <br>
 
@@ -64,11 +64,11 @@ A slide deck detailing the tool is available [here](https://drive.google.com/ope
 
 ##### Lead Developers: Sabyasachi Saho(IISc), Prashant Kumar(IISc), Santosh Shet(IISc), Siva Teja Kakileti(Niramai), and Hariharan Vijayakumar(Niramai)
 
-##### Contact: sabyasachis@iisc.ac.in, prashantkumar12@iisc.ac.in, santo.shet@gmail.com, sivateja@niramai.com, hariharan@niramai.com
+##### Contact(left to right): sabyasachis@iisc.ac.in, prashantkumar12@iisc.ac.in, santo.shet@gmail.com, sivateja@niramai.com, hariharan@niramai.com
 
 ##### Advised by: Chiranjib Bhattacharyya(IISc), Geetha Manjunath(Niramai), and Dr. Padmanabha Kamath(KMC)
 
-##### Contact: chiru@iisc.ac.in, swift@niramai.com
+##### Contact(left to right): chiru@iisc.ac.in, swift@niramai.com
 
 <br>
 

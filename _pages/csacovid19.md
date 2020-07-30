@@ -64,11 +64,11 @@ A slide deck detailing the tool is available [here](https://drive.google.com/ope
 
 ##### Lead Developers: Sabyasachi Saho(IISc), Prashant Kumar(IISc), Santosh Shet(IISc), Siva Teja Kakileti(Niramai), and Hariharan Vijayakumar(Niramai)
 
-##### Contact: 
+##### Contact: sabyasachis@iisc.ac.in, prashantkumar12@iisc.ac.in, santo.shet@gmail.com, sivateja@niramai.com, hariharan@niramai.com
 
 ##### Advised by: Chiranjib Bhattacharyya(IISc), Geetha Manjunath(Niramai), and Dr. Padmanabha Kamath(KMC)
 
-##### Contact: chiru@iisc.ac.in
+##### Contact: chiru@iisc.ac.in, swift@niramai.com
 
 <br>
 

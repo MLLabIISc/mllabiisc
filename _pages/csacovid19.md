@@ -59,9 +59,6 @@ A slide deck detailing the tool is available [here](https://drive.google.com/ope
 <br>
 
 <hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
-
-
-<hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
 <h2 style="color:#108896"> Project 3: COVID SWIFT - RAPID AI SOLUTIONS </h2>
 <hr style="width:100%;text-align:center;margin-left:0;height:10px; border-color: #ec511f; border-width: thick;">
 

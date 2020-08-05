@@ -83,7 +83,7 @@ We use state of art deep learning models to provide with likely COVID-19 and Pne
 
 This is a free Whatsapp based service to provide with swift diagnosis of potential COVID19 patients by analyzing Chest X-Ray images. We are running a small scale pilot where interested doctors within minutes, can receive a machine generated X-ray Report (as the one shown below) on sending us chest X-Ray of suspicious patients.
 
-For more information on this please visit [COVID SWIFT](http://bit.ly/covid-swift).
+For more information on this please visit [COVID SWIFT](https://mllabiisc.github.io/covid-swift/).
 
 <br>
 

@@ -1,0 +1,326 @@
+I"t<h1 id="publications">Publications</h1>
+
+<p>For a full list go to <a href="https://scholar.google.com/citations?user=SbYoEmQAAAAJ&amp;hl=en">Google Scholar</a></p>
+
+<p>Finding a latent k-simplex in O* (k nnz(data)) time via Subset Smoothing. <br />
+  <em>Chiranjib Bhattacharyya, Ravindran Kannan </em><br /><a href="https://doi.org/10.1137/1.9781611975994.8">SODA , 122-140 ( 2020 )</a></p>
+
+<p>How Many Pairwise Preferences Do We Need to Rank a Graph Consistently?  <br />
+  <em>Aadirupa Saha, Rakesh Shivanna, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1609/aaai.v33i01.33014830">AAAI , 4830-4837 ( 2019 )</a></p>
+
+<p>Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks.  <br />
+  <em>Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya, Partha P. Talukdar </em><br /><a href="https://www.aclweb.org/anthology/P19-1320/">ACL (1) , 3308-3318 ( 2019 )</a></p>
+
+<p>Word2Sense: Sparse Interpretable Word Embeddings.  <br />
+  <em>Abhishek Panigrahi, Harsha Vardhan Simhadri, Chiranjib Bhattacharyya </em><br /><a href="https://www.aclweb.org/anthology/P19-1570/">ACL (1) , 5692-5705 ( 2019 )</a></p>
+
+<p>Optimizing DNN Architectures for High Speed Autonomous Navigation in GPS Denied Environments on Edge Devices.  <br />
+  <em>Prafull Prakash, Chaitanya Murti, J. Saketha Nath, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1007/978-3-030-29911-8_36">PRICAI (2) , 468-481 ( 2019 )</a></p>
+
+<p>Be Greedy: How Chromatic Number meets Regret Minimization in Graph Bandits.  <br />
+  <em>Aadirupa Saha, Shreyas Sheshadri, Chiranjib Bhattacharyya </em><br /><a href="http://auai.org/uai2019/proceedings/papers/206.pdf">UAI , 206 ( 2019 )</a></p>
+
+<p>Regulating Drones in Restricted Spaces.  <br />
+  <em>Abhishek Vijeev, Vinod Ganapathy, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1145/3301293.3302370">HotMobile , 27-32 ( 2019 )</a></p>
+
+<p>Finding a latent k-simplex in O(k . nnz(data)) time via Subset Smoothing.  <br />
+  <em>Chiranjib Bhattacharyya, Ravindran Kannan </em><br /><a href="http://arxiv.org/abs/1904.06738">HotMobile , 27-32 ( 2019 )</a></p>
+
+<p>Convex Optimization over Intersection of Simple Sets: improved Convergence Rate Guarantees via an Exact Penalty Approach.  <br />
+  <em>Achintya Kundu, Francis Bach, Chiranjib Bhattacharyya </em><br /><a href="http://proceedings.mlr.press/v84/kundu18a.html">AISTATS , i ( 2018 )</a></p>
+
+<p>RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information.  <br />
+  <em>Shikhar Vashishth, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, Partha P. Talukdar </em><br /><a href="https://www.aclweb.org/anthology/D18-1157/">EMNLP , 1257-1266 ( 2018 )</a></p>
+
+<p>Weight-Agnostic Hierarchical Stick-Breaking Process.  <br />
+  <em>Mrinal Kanti Das, Chiranjib Bhattacharyya </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/ICBK.2018.00053">ICBK , 342-349 ( 2018 )</a></p>
+
+<p>Using Inherent Structures to design Lean 2-layer RBMs.  <br />
+  <em>Abhishek Bansal, Abhinav Anand, Chiranjib Bhattacharyya </em><br /><a href="http://proceedings.mlr.press/v80/bansal18a.html">ICML , 452-460 ( 2018 )</a></p>
+
+<p>Using Inherent Structures to design Lean 2-layer RBMs.  <br />
+  <em>Abhishek Bansal, Abhinav Anand, Chiranjib Bhattacharyya </em><br /><a href="http://arxiv.org/abs/1806.04577">ICML , 452-460 ( 2018 )</a></p>
+
+<p>Graph Convolutional Networks based Word Embeddings.  <br />
+  <em>Shikhar Vashishth, Prateek Yadav, Manik Bhandari, Piyush Rai, Chiranjib Bhattacharyya, Partha P. Talukdar </em><br /><a href="http://arxiv.org/abs/1809.04283">ICML , 452-460 ( 2018 )</a></p>
+
+<p>How Many Pairwise Preferences Do We Need to Rank A Graph Consistently?  <br />
+  <em>Aadirupa Saha, Rakesh Shivanna, Chiranjib Bhattacharyya </em><br /><a href="http://arxiv.org/abs/1811.02161">ICML , 452-460 ( 2018 )</a></p>
+
+<p>RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information.  <br />
+  <em>Shikhar Vashishth, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, Partha P. Talukdar </em><br /><a href="http://arxiv.org/abs/1812.04361">ICML , 452-460 ( 2018 )</a></p>
+
+<p>Vine copulas for mixed data : multi-view clustering for mixed data beyond meta-Gaussian dependencies.  <br />
+  <em>Lavanya Sita Tekumalla, Vaibhav Rajan, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1007/s10994-016-5624-2">ICML , 1331-1357 ( 2017 )</a></p>
+
+<p>Bayesian Modeling of Temporal Coherence in Videos for Entity Discovery and Summarization.  <br />
+  <em>Adway Mitra, Soma Biswas, Chiranjib Bhattacharyya </em><br /><a href="https://www.wikidata.org/entity/Q39820187">ICML , 430-443 ( 2017 )</a></p>
+
+<p>Corpus-Based Translation Induction in Indian Languages Using Auxiliary Language Corpora from Wikipedia.  <br />
+  <em>Goutham Tholpadi, Chiranjib Bhattacharyya, Shirish K. Shevade </em><br /><a href="https://doi.org/10.1145/3038295">ICML , 20:1-20:25 ( 2017 )</a></p>
+
+<p>Identifying Groups of Strongly Correlated Variables through Smoothed Ordered Weighted L  <br />
+  <em>Raman Sankaran, Francis R. Bach, Chiranjib Bhattacharyya </em><br /><a href="http://proceedings.mlr.press/v54/sankaran17a.html">AISTATS , 1123-1131 ( 2017 )</a></p>
+
+<p>SOPER: Discovering the Influence of Fashion and the Many Faces of User from Session Logs using Stick Breaking Process.  <br />
+  <em>Lucky Dhakad, Mrinal Kanti Das, Chiranjib Bhattacharyya, Samik Datta, Mihir Kale, Vivek Mehta </em><br /><a href="https://doi.org/10.1145/3132847.3133007">CIKM , 1609-1618 ( 2017 )</a></p>
+
+<p>Clustering by Sum of Norms: Stochastic Incremental Algorithm, Convergence and Cluster Recovery.  <br />
+  <em>Ashkan Panahi, Devdatt P. Dubhashi, Fredrik D. Johansson, Chiranjib Bhattacharyya </em><br /><a href="http://proceedings.mlr.press/v70/panahi17a.html">ICML , 2769-2777 ( 2017 )</a></p>
+
+<p>HLaffy: estimating peptide affinities for Class-1 HLA molecules by learning position-specific pair potentials.  <br />
+  <em>Sumanta Mukherjee, Chiranjib Bhattacharyya, Nagasuma Chandra </em><br /><a href="https://www.wikidata.org/entity/Q39788447">ICML , 2297-2305 ( 2016 )</a></p>
+
+<p>Non-negative Matrix Factorization under Heavy Noise.  <br />
+  <em>Chiranjib Bhattacharyya, Navin Goyal, Ravindran Kannan, Jagdeep Pani </em><br /><a href="http://proceedings.mlr.press/v48/bhattacharya16.html">ICML , 1426-1434 ( 2016 )</a></p>
+
+<p>Copula-HDP-HMM: Non-parametric Modeling of Temporal Multivariate Data for I/O Efficient Bulk Cache Preloading.  <br />
+  <em>Lavanya Sita Tekumalla, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1137/1.9781611974348.87">SDM , 774-782 ( 2016 )</a></p>
+
+<p>Relating Romanized Comments to News Articles by Inferring Multi-Glyphic Topical Correspondence.  <br />
+  <em>Goutham Tholpadi, Mrinal Kanti Das, Trapit Bansal, Chiranjib Bhattacharyya </em><br /><a href="http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9503">AAAI , 311-317 ( 2015 )</a></p>
+
+<p>Translation Induction on Indian Language Corpora Using Translingual Themes from Other Languages.  <br />
+  <em>Goutham Tholpadi, Chiranjib Bhattacharyya, Shirish K. Shevade </em><br /><a href="https://doi.org/10.1007/978-3-319-18111-0_38">CICLing (1) , 505-519 ( 2015 )</a></p>
+
+<p>Ordered Stick-Breaking Prior for Sequential MCMC Inference of Bayesian Nonparametric Models.  <br />
+  <em>Mrinal Kanti Das, Trapit Bansal, Chiranjib Bhattacharyya </em><br /><a href="http://proceedings.mlr.press/v37/das15.html">ICML , 550-559 ( 2015 )</a></p>
+
+<p>EntScene: Nonparametric Bayesian Temporal Segmentation of Videos Aimed at Entity-Driven Scene Detection.  <br />
+  <em>Adway Mitra, Chiranjib Bhattacharyya, Soma Biswas </em><br /><a href="http://ijcai.org/Abstract/15/523">IJCAI , 3721-3727 ( 2015 )</a></p>
+
+<p>Weighted Theta Functions and Embeddings with Applications to Max-Cut, Clustering and Summarization.  <br />
+  <em>Fredrik D. Johansson, Ankani Chattoraj, Chiranjib Bhattacharyya, Devdatt P. Dubhashi </em><br /><a href="http://papers.nips.cc/paper/5902-weighted-theta-functions-and-embeddings-with-applications-to-max-cut-clustering-and-summarization">NIPS , 1018-1026 ( 2015 )</a></p>
+
+<p>Spectral Norm Regularization of Orthonormal Representations for Graph Transduction.  <br />
+  <em>Rakesh Shivanna, Bibaswan K. Chatterjee, Raman Sankaran, Chiranjib Bhattacharyya, Francis R. Bach </em><br /><a href="http://papers.nips.cc/paper/5712-spectral-norm-regularization-of-orthonormal-representations-for-graph-transduction">NIPS , 2215-2223 ( 2015 )</a></p>
+
+<p>Content Driven User Profiling for Comment-Worthy Recommendations of News and Blog Articles.  <br />
+  <em>Trapit Bansal, Mrinal Kanti Das, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1145/2792838.2800186">RecSys , 195-202 ( 2015 )</a></p>
+
+<p>Temporally Coherent CRP: A Bayesian Non-Parametric Approach for Clustering Tracklets with applications to Person Discovery in Videos.  <br />
+  <em>Adway Mitra, Soma Biswas, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1137/1.9781611974010.90">SDM , 801-809 ( 2015 )</a></p>
+
+<p>Mining Block I/O Traces for Cache Preloading with Sparse Temporal Non-parametric Mixture of Multivariate Poisson.  <br />
+  <em>Lavanya Sita Tekumalla, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1137/1.9781611974010.99">SDM , 882-890 ( 2015 )</a></p>
+
+<p>Global graph kernels using geometric embeddings.  <br />
+  <em>Fredrik D. Johansson, Vinay Jethava, Devdatt P. Dubhashi, Chiranjib Bhattacharyya </em><br /><a href="http://proceedings.mlr.press/v32/johansson14.html">ICML , 694-702 ( 2014 )</a></p>
+
+<p>A provable SVD-based algorithm for learning topics in dominant admixture corpus.  <br />
+  <em>Trapit Bansal, Chiranjib Bhattacharyya, Ravindran Kannan </em><br /><a href="http://papers.nips.cc/paper/5302-a-provable-svd-based-algorithm-for-learning-topics-in-dominant-admixture-corpus">NIPS , 1997-2005 ( 2014 )</a></p>
+
+<p>Learning on graphs using Orthonormal Representation is Statistically Consistent.  <br />
+  <em>Rakesh Shivanna, Chiranjib Bhattacharyya </em><br /><a href="http://papers.nips.cc/paper/5388-learning-on-graphs-using-orthonormal-representation-is-statistically-consistent">NIPS , 3635-3643 ( 2014 )</a></p>
+
+<p>Going beyond Corr-LDA for detecting specific comments on news and blogs.  <br />
+  <em>Mrinal Kanti Das, Trapit Bansal, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1145/2556195.2556231">WSDM , 483-492 ( 2014 )</a></p>
+
+<p>Controlled Sparsity Kernel Learning.  <br />
+  <em>Dinesh Govindaraj, Raman Sankaran, Sreedal Menon, Chiranjib Bhattacharyya </em><br /><a href="http://arxiv.org/abs/1401.0116">WSDM , 483-492 ( 2014 )</a></p>
+
+<p>Temporally Coherent Chinese Restaurant Process for Discovery of Persons and Corresponding Tracklets from User-generated Videos.  <br />
+  <em>Adway Mitra, Soma Biswas, Chiranjib Bhattacharyya </em><br /><a href="http://arxiv.org/abs/1409.6080">WSDM , 483-492 ( 2014 )</a></p>
+
+<p>Mining Block I/O Traces for Cache Preloading with Sparse Temporal Non-parametric Mixture of Multivariate Poisson.  <br />
+  <em>Lavanya Sita Tekumalla, Chiranjib Bhattacharyya </em><br /><a href="http://arxiv.org/abs/1410.3463">WSDM , 483-492 ( 2014 )</a></p>
+
+<p>A provable SVD-based algorithm for learning topics in dominant admixture corpus.  <br />
+  <em>Trapit Bansal, Chiranjib Bhattacharyya, Ravindran Kannan </em><br /><a href="http://arxiv.org/abs/1410.6991">WSDM , 483-492 ( 2014 )</a></p>
+
+<p>Lovász ϑ function, SVMs and finding dense subgraphs.  <br />
+  <em>Vinay Jethava, Anders Martinsson, Chiranjib Bhattacharyya, Devdatt P. Dubhashi </em><br /><a href="http://dl.acm.org/citation.cfm?id=2627669">WSDM , 3495-3536 ( 2013 )</a></p>
+
+<p>Elastic Resources Framework in IaaS, Preserving Performance SLAs.  <br />
+  <em>Mohit Dhingra, J. Lakshmi, S. K. Nandy, Chiranjib Bhattacharyya, Kanchi Gopinath </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/CLOUD.2013.66">IEEE CLOUD , 430-437 ( 2013 )</a></p>
+
+<p>Subtle Topic Models and Discovering Subtly Manifested Software Concerns Automatically.  <br />
+  <em>Mrinal Kanti Das, Suparna Bhattacharya, Chiranjib Bhattacharyya, Kanchi Gopinath </em><br /><a href="http://proceedings.mlr.press/v28/das13.html">ICML (2) , 253-261 ( 2013 )</a></p>
+
+<p>Lovasz ϑ, SVMs and applications.  <br />
+  <em>Vinay Jethava, Jacob Sznajdman, Chiranjib Bhattacharyya, Devdatt P. Dubhashi </em><br /><a href="https://doi.org/10.1109/ITW.2013.6691323">ITW , 1-5 ( 2013 )</a></p>
+
+<p>Efficient methods for robust classification under uncertainty in kernel matrices.  <br />
+  <em>Aharon Ben-Tal, Sahely Bhadra, Chiranjib Bhattacharyya, Arkadi Nemirovski </em><br /><a href="http://dl.acm.org/citation.cfm?id=2503335">ITW , 2923-2954 ( 2012 )</a></p>
+
+<p>Cluster Labeling for Multilingual Scatter/Gather Using Comparable Corpora.  <br />
+  <em>Goutham Tholpadi, Mrinal Kanti Das, Chiranjib Bhattacharyya, Shirish K. Shevade </em><br /><a href="https://doi.org/10.1007/978-3-642-28997-2_33">ECIR , 388-400 ( 2012 )</a></p>
+
+<p>LoadIQ: Learning to Identify Workload Phases from a Live Storage Trace.  <br />
+  <em>Pankaj Pipada, Achintya Kundu, Kanchi Gopinath, Chiranjib Bhattacharyya, Sai Susarla, P. C. Nagesh </em><br /><a href="https://www.usenix.org/conference/hotstorage12/workshop-program/presentation/pipada">HotStorage , 388-400 ( 2012 )</a></p>
+
+<p>Eigen-profiles of spatio-temporal fragments for adaptive region-based tracking.  <br />
+  <em>Adway Mitra, Anoop Kolar Rajagopal, Ujwal D. Bonde, Chiranjib Bhattacharyya, K. R. Ramakrishnan </em><br /><a href="https://doi.org/10.1109/ICASSP.2012.6288174">ICASSP , 1497-1500 ( 2012 )</a></p>
+
+<p>Dynamic Multi-relational Chinese Restaurant Process for Analyzing Influences on Users in Social Media.  <br />
+  <em>Himabindu Lakkaraju, Indrajit Bhattacharya, Chiranjib Bhattacharyya </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/ICDM.2012.54">ICDM , 389-398 ( 2012 )</a></p>
+
+<p>Covariance profiles: A signature representation for object sets.  <br />
+  <em>Anoop Kolar Anoop, Adway Mitra, Ujwal D. Bonde, Chiranjib Bhattacharyya, K. R. Ramakrishnan </em><br /><a href="http://ieeexplore.ieee.org/document/6460685/">ICPR , 2541-2544 ( 2012 )</a></p>
+
+<p>The Lovasz theta function, SVMs and finding large dense subgraphs.  <br />
+  <em>Vinay Jethava, Anders Martinsson, Chiranjib Bhattacharyya, Devdatt P. Dubhashi </em><br /><a href="http://papers.nips.cc/paper/4503-the-lovasz-function-svms-and-finding-large-dense-subgraphs">NIPS , 1169-1177 ( 2012 )</a></p>
+
+<p>TCP: Thread Contention Predictor for Parallel Programs.  <br />
+  <em>Aparna Mandke Dani, Bharadwaj Amrutur, Y. N. Srikant, Chiranjib Bhattacharyya </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/PDP.2012.50">PDP , 19-26 ( 2012 )</a></p>
+
+<p>Dynamic Multi-Relational Chinese Restaurant Process for Analyzing Influences on Users in Social Media  <br />
+  <em>Himabindu Lakkaraju, Indrajit Bhattacharya, Chiranjib Bhattacharyya </em><br /><a href="http://arxiv.org/abs/1205.1456">PDP , 19-26 ( 2012 )</a></p>
+
+<p>NETGEM: Network Embedded Temporal GEnerative Model for gene expression data.  <br />
+  <em>Vinay Jethava, Chiranjib Bhattacharyya, Devdatt P. Dubhashi, Goutham N. Vemuri </em><br /><a href="https://www.wikidata.org/entity/Q33985375">PDP , 327 ( 2011 )</a></p>
+
+<p>Variable Sparsity Kernel Learning.  <br />
+  <em>Jonathan Aflalo, Aharon Ben-Tal, Chiranjib Bhattacharyya, Jagarlapudi Saketha Nath, Raman Sankaran </em><br /><a href="http://portal.acm.org/citation.cfm?id=1953065">PDP , 565-592 ( 2011 )</a></p>
+
+<p>Chance constrained uncertain classification via robust optimization.  <br />
+  <em>Aharon Ben-Tal, Sahely Bhadra, Chiranjib Bhattacharyya, J. Saketha Nath </em><br /><a href="https://doi.org/10.1007/s10107-010-0415-1">PDP , 145-173 ( 2011 )</a></p>
+
+<p>Supervised matching of comments with news article segments.  <br />
+  <em>Dyut Kumar Sil, Srinivasan H. Sengamedu, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1145/2063576.2063906">CIKM , 2125-2128 ( 2011 )</a></p>
+
+<p>Learning Dirichlet Processes from Partially Observed Groups.  <br />
+  <em>Avinava Dubey, Indrajit Bhattacharya, Mrinal Kanti Das, Tanveer A. Faruquie, Chiranjib Bhattacharyya </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/ICDM.2011.85">ICDM , 141-150 ( 2011 )</a></p>
+
+<p>Diversity in ranking via resistive graph centers.  <br />
+  <em>Avinava Dubey, Soumen Chakrabarti, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1145/2020408.2020428">KDD , 78-86 ( 2011 )</a></p>
+
+<p>Exploiting Coherence for the Simultaneous Discovery of Latent Facets and associated Sentiments.  <br />
+  <em>Himabindu Lakkaraju, Chiranjib Bhattacharyya, Indrajit Bhattacharya, Srujana Merugu </em><br /><a href="https://doi.org/10.1137/1.9781611972818.43">SDM , 498-509 ( 2011 )</a></p>
+
+<p>Scalable multi-dimensional user intent identification using tree structured distributions.  <br />
+  <em>Vinay Jethava, Liliana Calderón-Benavides, Ricardo Baeza-Yates, Chiranjib Bhattacharyya, Devdatt P. Dubhashi </em><br /><a href="https://doi.org/10.1145/2009916.2009971">SIGIR , 395-404 ( 2011 )</a></p>
+
+<p>ReadAlong: reading articles and comments together.  <br />
+  <em>Dyut Kumar Sil, Srinivasan H. Sengamedu, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1145/1963192.1963256">WWW (Companion Volume) , 125-126 ( 2011 )</a></p>
+
+<p>Mean Field Methods for a Special Class of Belief Networks  <br />
+  <em>Chiru Bhattacharyya, S. Sathiya Keerthi </em><br /><a href="http://arxiv.org/abs/1106.0246">WWW (Companion Volume) , 125-126 ( 2011 )</a></p>
+
+<p>Discovering Business Process Model from Unstructured Activity Logs.  <br />
+  <em>Rahul Kumar, Chiranjib Bhattacharyya, Virendra Varshneya </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/SCC.2010.78">IEEE SCC , 250-257 ( 2010 )</a></p>
+
+<p>Discovery of Application Workloads from Network File Traces.  <br />
+  <em>Neeraja J. Yadwadkar, Chiranjib Bhattacharyya, Kanchi Gopinath, Thirumale Niranjan, Sai Susarla </em><br /><a href="http://www.usenix.org/events/fast10/tech/full_papers/yadwadkar.pdf">FAST , 183-196 ( 2010 )</a></p>
+
+<p>Robust Formulations for Handling Uncertainty in Kernel Matrices.  <br />
+  <em>Sahely Bhadra, Sourangshu Bhattacharya, Chiranjib Bhattacharyya, Aharon Ben-Tal </em><br /><a href="https://icml.cc/Conferences/2010/papers/268.pdf">ICML , 71-78 ( 2010 )</a></p>
+
+<p>Free form face recognition using kernel sparse representation.  <br />
+  <em>Anoop Kolar Rajagopal, R. S. Narasimhan, K. R. Ramakrishnan, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1145/1924559.1924574">ICVGIP , 109-116 ( 2010 )</a></p>
+
+<p>Efficient algorithms for learning kernels from multiple similarity matrices with general convex loss functions.  <br />
+  <em>Achintya Kundu, Vikram Tankasali, Chiranjib Bhattacharyya, Aharon Ben-Tal </em><br /><a href="http://papers.nips.cc/paper/4131-efficient-algorithms-for-learning-kernels-from-multiple-similarity-matrices-with-general-convex-loss-functions">NIPS , 1198-1206 ( 2010 )</a></p>
+
+<p>Video coding mode decision as a classification problem.  <br />
+  <em>Rashad M. Jillani, Urvang Joshi, Chiranjib Bhattacharyya, Hari Kalva, R. K. Ramakrishnan </em><br /><a href="https://doi.org/10.1117/12.840243">Visual Information Processing and Communication , 75430X ( 2010 )</a></p>
+
+<p>A linear programming approach for estimating the structure of a sparse linear genetic network from transcript profiling data.  <br />
+  <em>Sahely Bhadra, Chiranjib Bhattacharyya, Nagasuma R. Chandra, I. Saira Mian </em><br /><a href="https://www.wikidata.org/entity/Q33411981">Visual Information Processing and Communication , 75430X ( 2009 )</a></p>
+
+<p>RAPID: Resource of Asian Primary Immunodeficiency Diseases.  <br />
+  <em>Shivakumar Keerthikumar, Rajesh Raju, Kumaran Kandasamy, Atsushi Hijikata, Subhashri Ramabadran, Lavanya Balakrishnan, Mukhtar Ahmed, Sandhya Rani, Lakshmi Dhevi N. Selvan, Devi S. Somanathan, Somak Ray, Mitali Bhattacharjee, Sashikanth Gollapudi, Y. L. Ramachandra, Sahely Bhadra, Chiranjib Bhattacharyya, Kohsuke Imai, Shigeaki Nonoyama, Hirokazu Kanegane, Toshio Miyawaki, Akhilesh Pandey, Osamu Ohara, S. Sujatha Mohan </em><br /><a href="https://www.wikidata.org/entity/Q37202665">Visual Information Processing and Communication , 863-867 ( 2009 )</a></p>
+
+<p>Conditional Models for Non-smooth Ranking Loss Functions.  <br />
+  <em>Avinava Dubey, Jinesh Machchhar, Chiranjib Bhattacharyya, Soumen Chakrabarti </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/ICDM.2009.49">ICDM , 129-138 ( 2009 )</a></p>
+
+<p>Discovering Rules from Disk Events for Predicting Hard Drive Failures.  <br />
+  <em>Vipul Agarwal, Chiranjib Bhattacharyya, Thirumale Niranjan, Sai Susarla </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/ICMLA.2009.62">ICMLA , 782-786 ( 2009 )</a></p>
+
+<p>On the Algorithmics and Applications of a Mixed-norm based Kernel Learning Formulation.  <br />
+  <em>Jagarlapudi Saketha Nath, G. Dinesh, Raman Sankaran, Chiranjib Bhattacharyya, Aharon Ben-Tal, K. R. Ramakrishnan </em><br /><a href="http://papers.nips.cc/paper/3880-on-the-algorithmics-and-applications-of-a-mixed-norm-based-kernel-learning-formulation">NIPS , 844-852 ( 2009 )</a></p>
+
+<p>Interval Data Classification under Partial Information: A Chance-Constraint Approach.  <br />
+  <em>Sahely Bhadra, J. Saketha Nath, Aharon Ben-Tal, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1007/978-3-642-01307-2_21">PAKDD , 208-219 ( 2009 )</a></p>
+
+<p>Randomized Algorithms for Large scale SVMs  <br />
+  <em>Vinay Jethava, Krishnan Suresh, Chiranjib Bhattacharyya, Ramesh Hariharan </em><br /><a href="http://arxiv.org/abs/0909.3609">PAKDD , 208-219 ( 2009 )</a></p>
+
+<p>A large margin approach for writer independent online handwriting classification.  <br />
+  <em>Karthik Kumara, Rahul Agrawal, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1016/j.patrec.2008.01.016">PAKDD , 933-937 ( 2008 )</a></p>
+
+<p>Structured learning for non-smooth ranking losses.  <br />
+  <em>Soumen Chakrabarti, Rajiv Khanna, Uma Sawant, Chiru Bhattacharyya </em><br /><a href="https://doi.org/10.1145/1401890.1401906">KDD , 88-96 ( 2008 )</a></p>
+
+<p>Clustering Based on Genetic Algorithms.  <br />
+  <em>M. Narasimha Murty, Rashmin Babaria, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1007/978-3-540-77467-9_7">Multi-Objective Evolutionary Algorithms for Knowledge Discovery from Databases , 137-159 ( 2008 )</a></p>
+
+<p>Comparison of protein structures by growing neighborhood alignments.  <br />
+  <em>Sourangshu Bhattacharya, Chiranjib Bhattacharyya, Nagasuma R. Chandra </em><br /><a href="https://www.wikidata.org/entity/Q30360166">Multi-Objective Evolutionary Algorithms for Knowledge Discovery from Databases , 137-159 ( 2007 )</a></p>
+
+<p>Fréchet Distance Based Approach for Searching Online Handwritten Documents.  <br />
+  <em>E. Sriraghavendra, K. Karthik, Chiranjib Bhattacharyya </em><br /><a href="http://doi.ieeecomputersociety.org/10.1109/ICDAR.2007.121">ICDAR , 461-465 ( 2007 )</a></p>
+
+<p>Focused crawling with scalable ordinal regression solvers.  <br />
+  <em>Rashmin Babaria, J. Saketha Nath, S. Krishnan, K. R. Sivaramakrishnan, Chiranjib Bhattacharyya, M. Narasimha Murty </em><br /><a href="https://doi.org/10.1145/1273496.1273504">ICML , 57-64 ( 2007 )</a></p>
+
+<p>Structural alignment based kernels for protein structure classification.  <br />
+  <em>Sourangshu Bhattacharya, Chiranjib Bhattacharyya, Nagasuma R. Chandra </em><br /><a href="https://www.wikidata.org/entity/Q57038738">ICML , 73-80 ( 2007 )</a></p>
+
+<p>Kernels for Large Margin Time-Series Classification.  <br />
+  <em>K. R. Sivaramakrishnan, K. Karthik, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1109/IJCNN.2007.4371393">IJCNN , 2746-2751 ( 2007 )</a></p>
+
+<p>A Randomized Algorithm for Large Scale Support Vector Learning.  <br />
+  <em>Krishnan Kumar, Chiru Bhattacharyya, Ramesh Hariharan </em><br /><a href="http://papers.nips.cc/paper/3352-a-randomized-algorithm-for-large-scale-support-vector-learning">NIPS , 793-800 ( 2007 )</a></p>
+
+<p>Kernels on Attributed Pointsets with Applications.  <br />
+  <em>Mehul Parsana, Sourangshu Bhattacharya, Chiru Bhattacharyya, K. R. Ramakrishnan </em><br /><a href="http://papers.nips.cc/paper/3304-kernels-on-attributed-pointsets-with-applications">NIPS , 1129-1136 ( 2007 )</a></p>
+
+<p>Maximum Margin Classifiers with Specified False Positive and False Negative Error Rates.  <br />
+  <em>J. Saketha Nath, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1137/1.9781611972771.4">SDM , 35-46 ( 2007 )</a></p>
+
+<p>Projections for fast protein structure retrieval.  <br />
+  <em>Sourangshu Bhattacharya, Chiranjib Bhattacharyya, Nagasuma R. Chandra </em><br /><a href="https://www.wikidata.org/entity/Q30359444">SDM , 35-46 ( 2006 )</a></p>
+
+<p>Second Order Cone Programming Approaches for Handling Missing and Uncertain Data.  <br />
+  <em>Pannagadatta K. Shivaswamy, Chiranjib Bhattacharyya, Alexander J. Smola </em><br /><a href="http://jmlr.org/papers/v7/shivaswamy06a.html">SDM , 1283-1314 ( 2006 )</a></p>
+
+<p>Clustering based large margin classification: a scalable approach using SOCP formulation.  <br />
+  <em>J. Saketha Nath, Chiranjib Bhattacharyya, M. Narasimha Murty </em><br /><a href="https://doi.org/10.1145/1150402.1150486">KDD , 674-679 ( 2006 )</a></p>
+
+<p>Ascent Phase Trajectory Optimization for a Hypersonic Vehicle Using Nonlinear Programming.  <br />
+  <em>H. M. Prasanna, Debasish Ghose, M. Seetharama Bhat, Chiranjib Bhattacharyya, J. Umakant </em><br /><a href="https://doi.org/10.1007/11424925_58">ICCSA (4) , 548-557 ( 2005 )</a></p>
+
+<p>Robust Sparse Hyperplane Classifiers: Application to Uncertain Molecular Profiling Data.  <br />
+  <em>Chiranjib Bhattacharyya, L. R. Grate, Michael I. Jordan, Laurent El Ghaoui, I. Saira Mian </em><br /><a href="https://www.wikidata.org/entity/Q30981040">ICCSA (4) , 1073-1089 ( 2004 )</a></p>
+
+<p>Second Order Cone Programming Formulations for Feature Selection.  <br />
+  <em>Chiranjib Bhattacharyya </em><br /><a href="http://jmlr.org/papers/volume5/bhattacharyya04a/bhattacharyya04a.pdf">ICCSA (4) , 1417-1433 ( 2004 )</a></p>
+
+<p>Efficient Algorithms for Intrusion Detection.  <br />
+  <em>Niranjan K. Boora, Chiranjib Bhattacharyya, Kanchi Gopinath </em><br /><a href="https://doi.org/10.1007/978-3-540-30555-2_40">ICDCIT , 346-352 ( 2004 )</a></p>
+
+<p>Time Series Classification for Online Tamil Handwritten Character Recognition - A Kernel Based Approach.  <br />
+  <em>K. R. Sivaramakrishnan, Chiranjib Bhattacharyya </em><br /><a href="https://doi.org/10.1007/978-3-540-30499-9_123">ICONIP , 800-805 ( 2004 )</a></p>
+
+<p>A Second Order Cone programming Formulation for Classifying Missing Data.  <br />
+  <em>Chiranjib Bhattacharyya, Pannagadatta K. Shivaswamy, Alexander J. Smola </em><br /><a href="http://papers.nips.cc/paper/2670-a-second-order-cone-programming-formulation-for-classifying-missing-data">NIPS , 153-160 ( 2004 )</a></p>
+
+<p>Simultaneous classification and relevant feature identification in high-dimensional spaces: application to molecular profiling data.  <br />
+  <em>Chiranjib Bhattacharyya, L. R. Grate, A. Rizki, D. Radisky, F. J. Molina, Michael I. Jordan, Mina J. Bissell, I. Saira Mian </em><br /><a href="https://doi.org/10.1016/S0165-1684(02)00474-7">NIPS , 729-743 ( 2003 )</a></p>
+
+<p>A Robust Minimax Approach to Classification.  <br />
+  <em>Gert R. G. Lanckriet, Laurent El Ghaoui, Chiranjib Bhattacharyya, Michael I. Jordan </em><br /><a href="http://jmlr.org/papers/v3/lanckriet02a.html">NIPS , 555-582 ( 2002 )</a></p>
+
+<p>Simultaneous Relevant Feature Identification and Classification in High-Dimensional Spaces.  <br />
+  <em>L. R. Grate, Chiranjib Bhattacharyya, Michael I. Jordan, I. Saira Mian </em><br /><a href="https://doi.org/10.1007/3-540-45784-4_1">WABI , 1-9 ( 2002 )</a></p>
+
+<p>Mean Field Methods for a Special Class of Belief Networks.  <br />
+  <em>Chiranjib Bhattacharyya, S. Sathiya Keerthi </em><br /><a href="https://doi.org/10.1613/jair.734">WABI , 91-114 ( 2001 )</a></p>
+
+<p>Improvements to Platt’s SMO Algorithm for SVM Classifier Design.  <br />
+  <em>S. Sathiya Keerthi, Shirish K. Shevade, Chiranjib Bhattacharyya, K. R. K. Murthy </em><br /><a href="https://doi.org/10.1162/089976601300014493">WABI , 637-649 ( 2001 )</a></p>
+
+<p>Minimax Probability Machine.  <br />
+  <em>Gert R. G. Lanckriet, Laurent El Ghaoui, Chiranjib Bhattacharyya, Michael I. Jordan </em><br /><a href="http://www-2.cs.cmu.edu/Groups/NIPS/NIPS2001/papers/psgz/AA03.ps.gz">NIPS , 801-807 ( 2001 )</a></p>
+
+<p>A fast iterative nearest point algorithm for support vector machine classifier design.  <br />
+  <em>S. Sathiya Keerthi, Shirish K. Shevade, Chiranjib Bhattacharyya, K. R. K. Murthy </em><br /><a href="https://www.wikidata.org/entity/Q47248670">NIPS , 124-136 ( 2000 )</a></p>
+
+<p>Improvements to the SMO algorithm for SVM regression.  <br />
+  <em>Shirish K. Shevade, S. Sathiya Keerthi, Chiranjib Bhattacharyya, K. R. K. Murthy </em><br /><a href="https://www.wikidata.org/entity/Q51894401">NIPS , 1188-1193 ( 2000 )</a></p>
+
+<p>A Variational Mean-Field Theory for Sigmoidal Belief Networks.  <br />
+  <em>Chiranjib Bhattacharyya, S. Sathiya Keerthi </em><br /><a href="http://papers.nips.cc/paper/1918-a-variational-mean-field-theory-for-sigmoidal-belief-networks">NIPS , 374-380 ( 2000 )</a></p>
+
+:ET
